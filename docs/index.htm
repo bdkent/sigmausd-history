@@ -12,7 +12,7 @@ title: SigmaUSD History
     <h1>HELLO 1</h1>
     
     <table>
-    <!-- <thead>
+    <thead>
        <tr>
          <th>Timestamp</th>
           <th>Reserve Ratio</th>
@@ -21,23 +21,23 @@ title: SigmaUSD History
           <th>SigmaRSV Price (ERG)</th>
           <th>SigmaRSV Ratio</th>
         </tr>
-        </thead>-->
+        </thead>
         <tbody>
-    {% for data in site.data.json %}
+    {% for dataFile in site.data.json %}
+            {% assign data = dataFile[1] %}
       <tr>
-          <td>{{ data }} </td>
-          <!--
+         
         <td>{{ data.time }}</td>
            <td>{{ data.reserveRatio }}</td>
    <td>{{ data.stableCoinPrice }}</td>
            <td>{{ data.stableCoinRatio }}</td>
            <td>{{ data.reserveCoinPrice }}</td>
            <td>{{ data.reserveCoinRatio }}</td>
--->
+
       </tr>
     {% endfor %}
           </tbody>
-    </ul>
+    </table>
     
   </body>
   
