@@ -9,7 +9,7 @@ title: SigmaUSD History
   </head>
   
   <body>
-    <h1>HELLO 2</h1>
+    <h1>SigmaUSD History</h1>
     
     <table>
     <thead>
@@ -23,21 +23,21 @@ title: SigmaUSD History
         </tr>
         </thead>
         <tbody>
-    {% for dataFile in site.data.json %}
-            {% assign data = dataFile[1] %}
+    {% for data_file in site.data.json %}
+            {% assign data_list = data_file[1] %}
+             {% for data_item in data_list %}
       <tr>
-            <td>{{ dataFile }}</td>
-            <td>{{ dataFile[0] }}</td>
-            <td>{{ dataFile[1] }}</td>
-    <!--     
-        <td>{{ data.time }}</td>
-           <td>{{ data.reserveRatio }}</td>
-   <td>{{ data.stableCoinPrice }}</td>
-           <td>{{ data.stableCoinRatio }}</td>
-           <td>{{ data.reserveCoinPrice }}</td>
-           <td>{{ data.reserveCoinRatio }}</td>
--->
+
+       
+        <td>{{ data_item.time }}</td>
+           <td>{{ data_item.reserveRatio }}</td>
+   <td>{{ data_item.stableCoinPrice }}</td>
+           <td>{{ data_item.stableCoinRatio }}</td>
+           <td>{{ data_item.reserveCoinPrice }}</td>
+           <td>{{ data_item.reserveCoinRatio }}</td>
+
       </tr>
+             {% endfor %}
     {% endfor %}
           </tbody>
     </table>
