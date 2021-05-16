@@ -9,7 +9,7 @@ title: SigmaUSD History
   </head>
   
   <body>
-    <h1>HELLO 1</h1>
+    <h1>HELLO 2</h1>
     
     <table>
     <thead>
@@ -26,14 +26,17 @@ title: SigmaUSD History
     {% for dataFile in site.data.json %}
             {% assign data = dataFile[1] %}
       <tr>
-         
+            <td>{{ dataFile }}</td>
+            <td>{{ dataFile[0] }}</td>
+            <td>{{ dataFile[1] }}</td>
+    <!--     
         <td>{{ data.time }}</td>
            <td>{{ data.reserveRatio }}</td>
    <td>{{ data.stableCoinPrice }}</td>
            <td>{{ data.stableCoinRatio }}</td>
            <td>{{ data.reserveCoinPrice }}</td>
            <td>{{ data.reserveCoinRatio }}</td>
-
+-->
       </tr>
     {% endfor %}
           </tbody>
