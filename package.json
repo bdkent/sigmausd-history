@@ -1,5 +1,6 @@
 {
   "name": "sigmausd-history",
+  "homepage": "https://bdkent.github.io/sigmausd-history",
   "version": "0.1.0",
   "main": "src/index.tsx",
   "private": true,
