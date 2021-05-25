@@ -1,0 +1,2306 @@
+[
+    {
+        "time": "2021-05-24T00:00:00.000Z",
+        "reserveRatio": "356.11666205231084491",
+        "stableCoinPrice": "0.123053992",
+        "stableCoinRatio": "8.1265140914729527832",
+        "reserveCoinPrice": "0.0013953028048510245695",
+        "reserveCoinRatio": "716.69031017734480043"
+    },
+    {
+        "time": "2021-05-24T00:05:00.000Z",
+        "reserveRatio": "356.11666205231084491",
+        "stableCoinPrice": "0.123053992",
+        "stableCoinRatio": "8.1265140914729527832",
+        "reserveCoinPrice": "0.0013953028048510245695",
+        "reserveCoinRatio": "716.69031017734480043"
+    },
+    {
+        "time": "2021-05-24T00:10:00.000Z",
+        "reserveRatio": "356.11666205231084491",
+        "stableCoinPrice": "0.123053992",
+        "stableCoinRatio": "8.1265140914729527832",
+        "reserveCoinPrice": "0.0013953028048510245695",
+        "reserveCoinRatio": "716.69031017734480043"
+    },
+    {
+        "time": "2021-05-24T00:15:00.000Z",
+        "reserveRatio": "356.11666205231084491",
+        "stableCoinPrice": "0.123053992",
+        "stableCoinRatio": "8.1265140914729527832",
+        "reserveCoinPrice": "0.0013953028048510245695",
+        "reserveCoinRatio": "716.69031017734480043"
+    },
+    {
+        "time": "2021-05-24T00:20:00.000Z",
+        "reserveRatio": "354.38020068399356597",
+        "stableCoinPrice": "0.123656956",
+        "stableCoinRatio": "8.086888375288811088",
+        "reserveCoinPrice": "0.0013926333270708200123",
+        "reserveCoinRatio": "718.0641024176399675"
+    },
+    {
+        "time": "2021-05-24T00:25:00.000Z",
+        "reserveRatio": "354.38020068399356597",
+        "stableCoinPrice": "0.123656956",
+        "stableCoinRatio": "8.086888375288811088",
+        "reserveCoinPrice": "0.0013926333270708200123",
+        "reserveCoinRatio": "718.0641024176399675"
+    },
+    {
+        "time": "2021-05-24T00:30:00.000Z",
+        "reserveRatio": "354.38020068399356597",
+        "stableCoinPrice": "0.123656956",
+        "stableCoinRatio": "8.086888375288811088",
+        "reserveCoinPrice": "0.0013926333270708200123",
+        "reserveCoinRatio": "718.0641024176399675"
+    },
+    {
+        "time": "2021-05-24T00:35:00.000Z",
+        "reserveRatio": "354.38020068399356597",
+        "stableCoinPrice": "0.123656956",
+        "stableCoinRatio": "8.086888375288811088",
+        "reserveCoinPrice": "0.0013926333270708200123",
+        "reserveCoinRatio": "718.0641024176399675"
+    },
+    {
+        "time": "2021-05-24T00:40:00.000Z",
+        "reserveRatio": "354.38020068399356597",
+        "stableCoinPrice": "0.123656956",
+        "stableCoinRatio": "8.086888375288811088",
+        "reserveCoinPrice": "0.0013926333270708200123",
+        "reserveCoinRatio": "718.0641024176399675"
+    },
+    {
+        "time": "2021-05-24T00:45:00.000Z",
+        "reserveRatio": "352.65220511960440551",
+        "stableCoinPrice": "0.124262875",
+        "stableCoinRatio": "8.0474558471305287279",
+        "reserveCoinPrice": "0.0013899507667403462775",
+        "reserveCoinRatio": "719.44994306896041007"
+    },
+    {
+        "time": "2021-05-24T00:50:00.000Z",
+        "reserveRatio": "352.65220511960440551",
+        "stableCoinPrice": "0.124262875",
+        "stableCoinRatio": "8.0474558471305287279",
+        "reserveCoinPrice": "0.0013899507667403462775",
+        "reserveCoinRatio": "719.44994306896041007"
+    },
+    {
+        "time": "2021-05-24T00:55:00.000Z",
+        "reserveRatio": "352.65220511960440551",
+        "stableCoinPrice": "0.124262875",
+        "stableCoinRatio": "8.0474558471305287279",
+        "reserveCoinPrice": "0.0013899507667403462775",
+        "reserveCoinRatio": "719.44994306896041007"
+    },
+    {
+        "time": "2021-05-24T01:00:00.000Z",
+        "reserveRatio": "352.65220511960440551",
+        "stableCoinPrice": "0.124262875",
+        "stableCoinRatio": "8.0474558471305287279",
+        "reserveCoinPrice": "0.0013899507667403462775",
+        "reserveCoinRatio": "719.44994306896041007"
+    },
+    {
+        "time": "2021-05-24T01:05:00.000Z",
+        "reserveRatio": "352.65220511960440551",
+        "stableCoinPrice": "0.124262875",
+        "stableCoinRatio": "8.0474558471305287279",
+        "reserveCoinPrice": "0.0013899507667403462775",
+        "reserveCoinRatio": "719.44994306896041007"
+    },
+    {
+        "time": "2021-05-24T01:10:00.000Z",
+        "reserveRatio": "352.65220511960440551",
+        "stableCoinPrice": "0.124262875",
+        "stableCoinRatio": "8.0474558471305287279",
+        "reserveCoinPrice": "0.0013899507667403462775",
+        "reserveCoinRatio": "719.44994306896041007"
+    },
+    {
+        "time": "2021-05-24T01:15:00.000Z",
+        "reserveRatio": "352.65220511960440551",
+        "stableCoinPrice": "0.124262875",
+        "stableCoinRatio": "8.0474558471305287279",
+        "reserveCoinPrice": "0.0013899507667403462775",
+        "reserveCoinRatio": "719.44994306896041007"
+    },
+    {
+        "time": "2021-05-24T01:20:00.000Z",
+        "reserveRatio": "350.93263545299478386",
+        "stableCoinPrice": "0.124871763",
+        "stableCoinRatio": "8.0082155963474304435",
+        "reserveCoinPrice": "0.0013872550618779777241",
+        "reserveCoinRatio": "720.84797344063287354"
+    },
+    {
+        "time": "2021-05-24T01:25:00.000Z",
+        "reserveRatio": "350.93263545299478386",
+        "stableCoinPrice": "0.124871763",
+        "stableCoinRatio": "8.0082155963474304435",
+        "reserveCoinPrice": "0.0013872550618779777241",
+        "reserveCoinRatio": "720.84797344063287354"
+    },
+    {
+        "time": "2021-05-24T01:30:00.000Z",
+        "reserveRatio": "350.93263545299478386",
+        "stableCoinPrice": "0.124871763",
+        "stableCoinRatio": "8.0082155963474304435",
+        "reserveCoinPrice": "0.0013872550618779777241",
+        "reserveCoinRatio": "720.84797344063287354"
+    },
+    {
+        "time": "2021-05-24T01:35:00.000Z",
+        "reserveRatio": "350.93263545299478386",
+        "stableCoinPrice": "0.124871763",
+        "stableCoinRatio": "8.0082155963474304435",
+        "reserveCoinPrice": "0.0013872550618779777241",
+        "reserveCoinRatio": "720.84797344063287354"
+    },
+    {
+        "time": "2021-05-24T01:40:00.000Z",
+        "reserveRatio": "350.93263545299478386",
+        "stableCoinPrice": "0.124871763",
+        "stableCoinRatio": "8.0082155963474304435",
+        "reserveCoinPrice": "0.0013872550618779777241",
+        "reserveCoinRatio": "720.84797344063287354"
+    },
+    {
+        "time": "2021-05-24T01:45:00.000Z",
+        "reserveRatio": "349.22145212380255334",
+        "stableCoinPrice": "0.125483634",
+        "stableCoinRatio": "7.9691667201796211927",
+        "reserveCoinPrice": "0.0013845461505020887115",
+        "reserveCoinRatio": "722.2583368834345047"
+    },
+    {
+        "time": "2021-05-24T01:50:00.000Z",
+        "reserveRatio": "349.22145212380255334",
+        "stableCoinPrice": "0.125483634",
+        "stableCoinRatio": "7.9691667201796211927",
+        "reserveCoinPrice": "0.0013845461505020887115",
+        "reserveCoinRatio": "722.2583368834345047"
+    },
+    {
+        "time": "2021-05-24T01:55:00.000Z",
+        "reserveRatio": "349.22145212380255334",
+        "stableCoinPrice": "0.125483634",
+        "stableCoinRatio": "7.9691667201796211927",
+        "reserveCoinPrice": "0.0013845461505020887115",
+        "reserveCoinRatio": "722.2583368834345047"
+    },
+    {
+        "time": "2021-05-24T02:00:00.000Z",
+        "reserveRatio": "347.51861315317726088",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818239662037946245",
+        "reserveCoinRatio": "723.68118114729359487"
+    },
+    {
+        "time": "2021-05-24T02:05:00.000Z",
+        "reserveRatio": "347.51861315317726088",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818239662037946245",
+        "reserveCoinRatio": "723.68118114729359487"
+    },
+    {
+        "time": "2021-05-24T02:10:00.000Z",
+        "reserveRatio": "347.51861315317726088",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818239662037946245",
+        "reserveCoinRatio": "723.68118114729359487"
+    },
+    {
+        "time": "2021-05-24T02:15:00.000Z",
+        "reserveRatio": "347.53525252578484169",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818257874464905688",
+        "reserveCoinRatio": "723.6802273374303469"
+    },
+    {
+        "time": "2021-05-24T02:20:00.000Z",
+        "reserveRatio": "347.53525252578484169",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818257874464905688",
+        "reserveCoinRatio": "723.6802273374303469"
+    },
+    {
+        "time": "2021-05-24T02:25:00.000Z",
+        "reserveRatio": "347.53525252578484169",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818257874464905688",
+        "reserveCoinRatio": "723.6802273374303469"
+    },
+    {
+        "time": "2021-05-24T02:30:00.000Z",
+        "reserveRatio": "347.53525252578484169",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818257874464905688",
+        "reserveCoinRatio": "723.6802273374303469"
+    },
+    {
+        "time": "2021-05-24T02:35:00.000Z",
+        "reserveRatio": "347.53525252578484169",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818257874464905688",
+        "reserveCoinRatio": "723.6802273374303469"
+    },
+    {
+        "time": "2021-05-24T02:40:00.000Z",
+        "reserveRatio": "347.53525252578484169",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818257874464905688",
+        "reserveCoinRatio": "723.6802273374303469"
+    },
+    {
+        "time": "2021-05-24T02:45:00.000Z",
+        "reserveRatio": "347.53525252578484169",
+        "stableCoinPrice": "0.126098503",
+        "stableCoinRatio": "7.9303082606777655402",
+        "reserveCoinPrice": "0.0013818257874464905688",
+        "reserveCoinRatio": "723.6802273374303469"
+    },
+    {
+        "time": "2021-05-24T02:50:00.000Z",
+        "reserveRatio": "345.84063523614911708",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790904440942149056",
+        "reserveCoinRatio": "725.11560375345716038"
+    },
+    {
+        "time": "2021-05-24T02:55:00.000Z",
+        "reserveRatio": "345.84063523614911708",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790904440942149056",
+        "reserveCoinRatio": "725.11560375345716038"
+    },
+    {
+        "time": "2021-05-24T03:00:00.000Z",
+        "reserveRatio": "345.84063523614911708",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790904440942149056",
+        "reserveCoinRatio": "725.11560375345716038"
+    },
+    {
+        "time": "2021-05-24T03:05:00.000Z",
+        "reserveRatio": "345.84063523614911708",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790904440942149056",
+        "reserveCoinRatio": "725.11560375345716038"
+    },
+    {
+        "time": "2021-05-24T03:10:00.000Z",
+        "reserveRatio": "345.84063523614911708",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790904440942149056",
+        "reserveCoinRatio": "725.11560375345716038"
+    },
+    {
+        "time": "2021-05-24T03:15:00.000Z",
+        "reserveRatio": "345.84212253007676854",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790906076839842047",
+        "reserveCoinRatio": "725.11551773917088196"
+    },
+    {
+        "time": "2021-05-24T03:20:00.000Z",
+        "reserveRatio": "345.84212253007676854",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790906076839842047",
+        "reserveCoinRatio": "725.11551773917088196"
+    },
+    {
+        "time": "2021-05-24T03:25:00.000Z",
+        "reserveRatio": "345.84212253007676854",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790906076839842047",
+        "reserveCoinRatio": "725.11551773917088196"
+    },
+    {
+        "time": "2021-05-24T03:30:00.000Z",
+        "reserveRatio": "345.84212253007676854",
+        "stableCoinPrice": "0.126716385",
+        "stableCoinRatio": "7.8916392698544864581",
+        "reserveCoinPrice": "0.0013790906076839842047",
+        "reserveCoinRatio": "725.11551773917088196"
+    },
+    {
+        "time": "2021-05-24T03:35:00.000Z",
+        "reserveRatio": "344.48465824523961061",
+        "stableCoinPrice": "0.127337295",
+        "stableCoinRatio": "7.8531588094438475389",
+        "reserveCoinPrice": "0.0013763817991579997999",
+        "reserveCoinRatio": "726.54259204222913139"
+    },
+    {
+        "time": "2021-05-24T03:40:00.000Z",
+        "reserveRatio": "344.48465824523961061",
+        "stableCoinPrice": "0.127337295",
+        "stableCoinRatio": "7.8531588094438475389",
+        "reserveCoinPrice": "0.0013763817991579997999",
+        "reserveCoinRatio": "726.54259204222913139"
+    },
+    {
+        "time": "2021-05-24T03:45:00.000Z",
+        "reserveRatio": "344.48465824523961061",
+        "stableCoinPrice": "0.127337295",
+        "stableCoinRatio": "7.8531588094438475389",
+        "reserveCoinPrice": "0.0013763817991579997999",
+        "reserveCoinRatio": "726.54259204222913139"
+    },
+    {
+        "time": "2021-05-24T03:50:00.000Z",
+        "reserveRatio": "344.48465824523961061",
+        "stableCoinPrice": "0.127337295",
+        "stableCoinRatio": "7.8531588094438475389",
+        "reserveCoinPrice": "0.0013763817991579997999",
+        "reserveCoinRatio": "726.54259204222913139"
+    },
+    {
+        "time": "2021-05-24T03:55:00.000Z",
+        "reserveRatio": "344.48465824523961061",
+        "stableCoinPrice": "0.127337295",
+        "stableCoinRatio": "7.8531588094438475389",
+        "reserveCoinPrice": "0.0013763817991579997999",
+        "reserveCoinRatio": "726.54259204222913139"
+    },
+    {
+        "time": "2021-05-24T04:00:00.000Z",
+        "reserveRatio": "344.48465824523961061",
+        "stableCoinPrice": "0.127337295",
+        "stableCoinRatio": "7.8531588094438475389",
+        "reserveCoinPrice": "0.0013763817991579997999",
+        "reserveCoinRatio": "726.54259204222913139"
+    },
+    {
+        "time": "2021-05-24T04:05:00.000Z",
+        "reserveRatio": "344.48465824523961061",
+        "stableCoinPrice": "0.127337295",
+        "stableCoinRatio": "7.8531588094438475389",
+        "reserveCoinPrice": "0.0013763817991579997999",
+        "reserveCoinRatio": "726.54259204222913139"
+    },
+    {
+        "time": "2021-05-24T04:10:00.000Z",
+        "reserveRatio": "345.66589442975601617",
+        "stableCoinPrice": "0.126903962",
+        "stableCoinRatio": "7.8799746220689311497",
+        "reserveCoinPrice": "0.0013782981193321472385",
+        "reserveCoinRatio": "725.53244176560934785"
+    },
+    {
+        "time": "2021-05-24T04:15:00.000Z",
+        "reserveRatio": "345.66589442975601617",
+        "stableCoinPrice": "0.126903962",
+        "stableCoinRatio": "7.8799746220689311497",
+        "reserveCoinPrice": "0.0013782981193321472385",
+        "reserveCoinRatio": "725.53244176560934785"
+    },
+    {
+        "time": "2021-05-24T04:20:00.000Z",
+        "reserveRatio": "345.74835235627866214",
+        "stableCoinPrice": "0.126903962",
+        "stableCoinRatio": "7.8799746220689311497",
+        "reserveCoinPrice": "0.0013783071874208535663",
+        "reserveCoinRatio": "725.52766837938507631"
+    },
+    {
+        "time": "2021-05-24T04:25:00.000Z",
+        "reserveRatio": "345.74835235627866214",
+        "stableCoinPrice": "0.126903962",
+        "stableCoinRatio": "7.8799746220689311497",
+        "reserveCoinPrice": "0.0013783071874208535663",
+        "reserveCoinRatio": "725.52766837938507631"
+    },
+    {
+        "time": "2021-05-24T04:30:00.000Z",
+        "reserveRatio": "345.74835565461716652",
+        "stableCoinPrice": "0.126903962",
+        "stableCoinRatio": "7.8799746220689311497",
+        "reserveCoinPrice": "0.001378307187783578056",
+        "reserveCoinRatio": "725.52766818845038801"
+    },
+    {
+        "time": "2021-05-24T04:35:00.000Z",
+        "reserveRatio": "344.06245076775114475",
+        "stableCoinPrice": "0.127525791",
+        "stableCoinRatio": "7.8415510475053630524",
+        "reserveCoinPrice": "0.001375558969709908018",
+        "reserveCoinRatio": "726.97719401363814674"
+    },
+    {
+        "time": "2021-05-24T04:40:00.000Z",
+        "reserveRatio": "344.06245076775114475",
+        "stableCoinPrice": "0.127525791",
+        "stableCoinRatio": "7.8415510475053630524",
+        "reserveCoinPrice": "0.001375558969709908018",
+        "reserveCoinRatio": "726.97719401363814674"
+    },
+    {
+        "time": "2021-05-24T04:45:00.000Z",
+        "reserveRatio": "344.06245076775114475",
+        "stableCoinPrice": "0.127525791",
+        "stableCoinRatio": "7.8415510475053630524",
+        "reserveCoinPrice": "0.001375558969709908018",
+        "reserveCoinRatio": "726.97719401363814674"
+    },
+    {
+        "time": "2021-05-24T04:50:00.000Z",
+        "reserveRatio": "344.06245076775114475",
+        "stableCoinPrice": "0.127525791",
+        "stableCoinRatio": "7.8415510475053630524",
+        "reserveCoinPrice": "0.001375558969709908018",
+        "reserveCoinRatio": "726.97719401363814674"
+    },
+    {
+        "time": "2021-05-24T04:55:00.000Z",
+        "reserveRatio": "344.06941165498006373",
+        "stableCoinPrice": "0.127525791",
+        "stableCoinRatio": "7.8415510475053630524",
+        "reserveCoinPrice": "0.0013755597389493104276",
+        "reserveCoinRatio": "726.97678747404088024"
+    },
+    {
+        "time": "2021-05-24T05:00:00.000Z",
+        "reserveRatio": "342.39169336673020763",
+        "stableCoinPrice": "0.128150667",
+        "stableCoinRatio": "7.8033148278502522347",
+        "reserveCoinPrice": "0.0013727981316587884468",
+        "reserveCoinRatio": "728.43921982300007792"
+    },
+    {
+        "time": "2021-05-24T05:05:00.000Z",
+        "reserveRatio": "342.39169336673020763",
+        "stableCoinPrice": "0.128150667",
+        "stableCoinRatio": "7.8033148278502522347",
+        "reserveCoinPrice": "0.0013727981316587884468",
+        "reserveCoinRatio": "728.43921982300007792"
+    },
+    {
+        "time": "2021-05-24T05:10:00.000Z",
+        "reserveRatio": "342.39169336673020763",
+        "stableCoinPrice": "0.128150667",
+        "stableCoinRatio": "7.8033148278502522347",
+        "reserveCoinPrice": "0.0013727981316587884468",
+        "reserveCoinRatio": "728.43921982300007792"
+    },
+    {
+        "time": "2021-05-24T05:15:00.000Z",
+        "reserveRatio": "342.41446573839648046",
+        "stableCoinPrice": "0.128150667",
+        "stableCoinRatio": "7.8033148278502522347",
+        "reserveCoinPrice": "0.0013728006602868419199",
+        "reserveCoinRatio": "728.43787807550550021"
+    },
+    {
+        "time": "2021-05-24T05:20:00.000Z",
+        "reserveRatio": "342.41446573839648046",
+        "stableCoinPrice": "0.128150667",
+        "stableCoinRatio": "7.8033148278502522347",
+        "reserveCoinPrice": "0.0013728006602868419199",
+        "reserveCoinRatio": "728.43787807550550021"
+    },
+    {
+        "time": "2021-05-24T05:25:00.000Z",
+        "reserveRatio": "340.74481684922861589",
+        "stableCoinPrice": "0.128778605",
+        "stableCoinRatio": "7.7652650453854504791",
+        "reserveCoinPrice": "0.0013700257762299932083",
+        "reserveCoinRatio": "729.91327415151122259"
+    },
+    {
+        "time": "2021-05-24T05:30:00.000Z",
+        "reserveRatio": "340.79974034275907561",
+        "stableCoinPrice": "0.128778605",
+        "stableCoinRatio": "7.7652650453854504791",
+        "reserveCoinPrice": "0.0013700319032647009607",
+        "reserveCoinRatio": "729.9100098450715561"
+    },
+    {
+        "time": "2021-05-24T05:35:00.000Z",
+        "reserveRatio": "340.84361678313241519",
+        "stableCoinPrice": "0.128778605",
+        "stableCoinRatio": "7.7652650453854504791",
+        "reserveCoinPrice": "0.001370036049053664074",
+        "reserveCoinRatio": "729.90780110548038123"
+    },
+    {
+        "time": "2021-05-24T05:40:00.000Z",
+        "reserveRatio": "340.84361678313241519",
+        "stableCoinPrice": "0.128778605",
+        "stableCoinRatio": "7.7652650453854504791",
+        "reserveCoinPrice": "0.001370036049053664074",
+        "reserveCoinRatio": "729.90780110548038123"
+    },
+    {
+        "time": "2021-05-24T05:45:00.000Z",
+        "reserveRatio": "340.84361678313241519",
+        "stableCoinPrice": "0.128778605",
+        "stableCoinRatio": "7.7652650453854504791",
+        "reserveCoinPrice": "0.001370036049053664074",
+        "reserveCoinRatio": "729.90780110548038123"
+    },
+    {
+        "time": "2021-05-24T05:50:00.000Z",
+        "reserveRatio": "340.84361678313241519",
+        "stableCoinPrice": "0.128778605",
+        "stableCoinRatio": "7.7652650453854504791",
+        "reserveCoinPrice": "0.001370036049053664074",
+        "reserveCoinRatio": "729.90780110548038123"
+    },
+    {
+        "time": "2021-05-24T05:55:00.000Z",
+        "reserveRatio": "348.13408635113903164",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013730165049618316771",
+        "reserveCoinRatio": "728.32336420296628651"
+    },
+    {
+        "time": "2021-05-24T06:00:00.000Z",
+        "reserveRatio": "348.13408635113903164",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013730165049618316771",
+        "reserveCoinRatio": "728.32336420296628651"
+    },
+    {
+        "time": "2021-05-24T06:05:00.000Z",
+        "reserveRatio": "348.14932507749261354",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013730171791534078847",
+        "reserveCoinRatio": "728.32300657490135321"
+    },
+    {
+        "time": "2021-05-24T06:10:00.000Z",
+        "reserveRatio": "348.14932507749261354",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013730171791534078847",
+        "reserveCoinRatio": "728.32300657490135321"
+    },
+    {
+        "time": "2021-05-24T06:15:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:20:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:25:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:30:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:35:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:40:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:45:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:50:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T06:55:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T07:00:00.000Z",
+        "reserveRatio": "350.40304643248926667",
+        "stableCoinPrice": "0.128147589",
+        "stableCoinRatio": "7.8035022570732875825",
+        "reserveCoinPrice": "0.0013732595339008897754",
+        "reserveCoinRatio": "728.19447112039603548"
+    },
+    {
+        "time": "2021-05-24T07:05:00.000Z",
+        "reserveRatio": "352.12847821219221986",
+        "stableCoinPrice": "0.127519665",
+        "stableCoinRatio": "7.8419277528685477648",
+        "reserveCoinPrice": "0.0013759467937141889308",
+        "reserveCoinRatio": "726.77228841140754518"
+    },
+    {
+        "time": "2021-05-24T07:10:00.000Z",
+        "reserveRatio": "352.12847821219221986",
+        "stableCoinPrice": "0.127519665",
+        "stableCoinRatio": "7.8419277528685477648",
+        "reserveCoinPrice": "0.0013759467937141889308",
+        "reserveCoinRatio": "726.77228841140754518"
+    },
+    {
+        "time": "2021-05-24T07:15:00.000Z",
+        "reserveRatio": "352.12847821219221986",
+        "stableCoinPrice": "0.127519665",
+        "stableCoinRatio": "7.8419277528685477648",
+        "reserveCoinPrice": "0.0013759467937141889308",
+        "reserveCoinRatio": "726.77228841140754518"
+    },
+    {
+        "time": "2021-05-24T07:20:00.000Z",
+        "reserveRatio": "352.12847821219221986",
+        "stableCoinPrice": "0.127519665",
+        "stableCoinRatio": "7.8419277528685477648",
+        "reserveCoinPrice": "0.0013759467937141889308",
+        "reserveCoinRatio": "726.77228841140754518"
+    },
+    {
+        "time": "2021-05-24T07:25:00.000Z",
+        "reserveRatio": "352.12847821219221986",
+        "stableCoinPrice": "0.127519665",
+        "stableCoinRatio": "7.8419277528685477648",
+        "reserveCoinPrice": "0.0013759467937141889308",
+        "reserveCoinRatio": "726.77228841140754518"
+    },
+    {
+        "time": "2021-05-24T07:30:00.000Z",
+        "reserveRatio": "353.86240578065647087",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786208852166009064",
+        "reserveCoinRatio": "725.36257844583995842"
+    },
+    {
+        "time": "2021-05-24T07:35:00.000Z",
+        "reserveRatio": "353.86240578065647087",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786208852166009064",
+        "reserveCoinRatio": "725.36257844583995842"
+    },
+    {
+        "time": "2021-05-24T07:40:00.000Z",
+        "reserveRatio": "353.86240578065647087",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786208852166009064",
+        "reserveCoinRatio": "725.36257844583995842"
+    },
+    {
+        "time": "2021-05-24T07:45:00.000Z",
+        "reserveRatio": "353.86240578065647087",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786208852166009064",
+        "reserveCoinRatio": "725.36257844583995842"
+    },
+    {
+        "time": "2021-05-24T07:50:00.000Z",
+        "reserveRatio": "353.86240578065647087",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786208852166009064",
+        "reserveCoinRatio": "725.36257844583995842"
+    },
+    {
+        "time": "2021-05-24T07:55:00.000Z",
+        "reserveRatio": "353.86578134614195416",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786212446374111064",
+        "reserveCoinRatio": "725.36238933631720307"
+    },
+    {
+        "time": "2021-05-24T08:00:00.000Z",
+        "reserveRatio": "353.86578134614195416",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786212446374111064",
+        "reserveCoinRatio": "725.36238933631720307"
+    },
+    {
+        "time": "2021-05-24T08:05:00.000Z",
+        "reserveRatio": "353.88265918581192286",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786230416673885439",
+        "reserveCoinRatio": "725.36144382915625607"
+    },
+    {
+        "time": "2021-05-24T08:10:00.000Z",
+        "reserveRatio": "353.88265918581192286",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786230416673885439",
+        "reserveCoinRatio": "725.36144382915625607"
+    },
+    {
+        "time": "2021-05-24T08:15:00.000Z",
+        "reserveRatio": "353.88265918581192286",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786230416673885439",
+        "reserveCoinRatio": "725.36144382915625607"
+    },
+    {
+        "time": "2021-05-24T08:20:00.000Z",
+        "reserveRatio": "353.88265918581192286",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.0013786230416673885439",
+        "reserveCoinRatio": "725.36144382915625607"
+    },
+    {
+        "time": "2021-05-24T08:25:00.000Z",
+        "reserveRatio": "353.88535964407673458",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.001378623329191720318",
+        "reserveCoinRatio": "725.3612925484837072"
+    },
+    {
+        "time": "2021-05-24T08:30:00.000Z",
+        "reserveRatio": "353.88535964407673458",
+        "stableCoinPrice": "0.126894818",
+        "stableCoinRatio": "7.8805424505199258807",
+        "reserveCoinPrice": "0.001378623329191720318",
+        "reserveCoinRatio": "725.3612925484837072"
+    },
+    {
+        "time": "2021-05-24T08:35:00.000Z",
+        "reserveRatio": "356.63882909586991686",
+        "stableCoinPrice": "0.126273033",
+        "stableCoinRatio": "7.9193472766271480942",
+        "reserveCoinPrice": "0.0013813805665452062712",
+        "reserveCoinRatio": "723.91347049348733641"
+    },
+    {
+        "time": "2021-05-24T08:40:00.000Z",
+        "reserveRatio": "356.63882909586991686",
+        "stableCoinPrice": "0.126273033",
+        "stableCoinRatio": "7.9193472766271480942",
+        "reserveCoinPrice": "0.0013813805665452062712",
+        "reserveCoinRatio": "723.91347049348733641"
+    },
+    {
+        "time": "2021-05-24T08:45:00.000Z",
+        "reserveRatio": "356.63882909586991686",
+        "stableCoinPrice": "0.126273033",
+        "stableCoinRatio": "7.9193472766271480942",
+        "reserveCoinPrice": "0.0013813805665452062712",
+        "reserveCoinRatio": "723.91347049348733641"
+    },
+    {
+        "time": "2021-05-24T08:50:00.000Z",
+        "reserveRatio": "356.74421442050753672",
+        "stableCoinPrice": "0.126273033",
+        "stableCoinRatio": "7.9193472766271480942",
+        "reserveCoinPrice": "0.0013813916843034784627",
+        "reserveCoinRatio": "723.90764427123163497"
+    },
+    {
+        "time": "2021-05-24T08:55:00.000Z",
+        "reserveRatio": "356.74421442050753672",
+        "stableCoinPrice": "0.126273033",
+        "stableCoinRatio": "7.9193472766271480942",
+        "reserveCoinPrice": "0.0013813916843034784627",
+        "reserveCoinRatio": "723.90764427123163497"
+    },
+    {
+        "time": "2021-05-24T09:00:00.000Z",
+        "reserveRatio": "358.50086907160494642",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840280906510677012",
+        "reserveCoinRatio": "722.52868764360476837"
+    },
+    {
+        "time": "2021-05-24T09:05:00.000Z",
+        "reserveRatio": "358.50086907160494642",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840280906510677012",
+        "reserveCoinRatio": "722.52868764360476837"
+    },
+    {
+        "time": "2021-05-24T09:10:00.000Z",
+        "reserveRatio": "358.50086907160494642",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840280906510677012",
+        "reserveCoinRatio": "722.52868764360476837"
+    },
+    {
+        "time": "2021-05-24T09:15:00.000Z",
+        "reserveRatio": "358.50086907160494642",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840280906510677012",
+        "reserveCoinRatio": "722.52868764360476837"
+    },
+    {
+        "time": "2021-05-24T09:20:00.000Z",
+        "reserveRatio": "358.50437689123495456",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840284589010844596",
+        "reserveCoinRatio": "722.52849539957999995"
+    },
+    {
+        "time": "2021-05-24T09:25:00.000Z",
+        "reserveRatio": "358.50437689123495456",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840284589010844596",
+        "reserveCoinRatio": "722.52849539957999995"
+    },
+    {
+        "time": "2021-05-24T09:30:00.000Z",
+        "reserveRatio": "358.55040949656645971",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840303507954153749",
+        "reserveCoinRatio": "722.52750774236310031"
+    },
+    {
+        "time": "2021-05-24T09:35:00.000Z",
+        "reserveRatio": "358.55040949656645971",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840303507954153749",
+        "reserveCoinRatio": "722.52750774236310031"
+    },
+    {
+        "time": "2021-05-24T09:40:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T09:45:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T09:50:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T09:55:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:00:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:05:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:10:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:15:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:20:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:25:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:30:00.000Z",
+        "reserveRatio": "358.56771561361079104",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840310618867328568",
+        "reserveCoinRatio": "722.52713652017629691"
+    },
+    {
+        "time": "2021-05-24T10:35:00.000Z",
+        "reserveRatio": "358.57319257770395275",
+        "stableCoinPrice": "0.125654295",
+        "stableCoinRatio": "7.9583431668611088861",
+        "reserveCoinPrice": "0.0013840316367059336009",
+        "reserveCoinRatio": "722.52683643854512919"
+    },
+    {
+        "time": "2021-05-24T10:40:00.000Z",
+        "reserveRatio": "360.33885570789253395",
+        "stableCoinPrice": "0.125038588",
+        "stableCoinRatio": "7.997531130149998175",
+        "reserveCoinPrice": "0.0013866544010635556928",
+        "reserveCoinRatio": "721.16022509502435299"
+    },
+    {
+        "time": "2021-05-24T10:45:00.000Z",
+        "reserveRatio": "360.33885570789253395",
+        "stableCoinPrice": "0.125038588",
+        "stableCoinRatio": "7.997531130149998175",
+        "reserveCoinPrice": "0.0013866544010635556928",
+        "reserveCoinRatio": "721.16022509502435299"
+    },
+    {
+        "time": "2021-05-24T10:50:00.000Z",
+        "reserveRatio": "360.33885570789253395",
+        "stableCoinPrice": "0.125038588",
+        "stableCoinRatio": "7.997531130149998175",
+        "reserveCoinPrice": "0.0013866544010635556928",
+        "reserveCoinRatio": "721.16022509502435299"
+    },
+    {
+        "time": "2021-05-24T10:55:00.000Z",
+        "reserveRatio": "362.11321311300178763",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.0013892643137237519866",
+        "reserveCoinRatio": "719.80543235838477078"
+    },
+    {
+        "time": "2021-05-24T11:00:00.000Z",
+        "reserveRatio": "362.11321311300178763",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.0013892643137237519866",
+        "reserveCoinRatio": "719.80543235838477078"
+    },
+    {
+        "time": "2021-05-24T11:05:00.000Z",
+        "reserveRatio": "362.11321311300178763",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.0013892643137237519866",
+        "reserveCoinRatio": "719.80543235838477078"
+    },
+    {
+        "time": "2021-05-24T11:10:00.000Z",
+        "reserveRatio": "362.11907735837668722",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.001389264923153282013",
+        "reserveCoinRatio": "719.8051166009802313"
+    },
+    {
+        "time": "2021-05-24T11:15:00.000Z",
+        "reserveRatio": "362.11907735837668722",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.001389264923153282013",
+        "reserveCoinRatio": "719.8051166009802313"
+    },
+    {
+        "time": "2021-05-24T11:20:00.000Z",
+        "reserveRatio": "362.11907735837668722",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.001389264923153282013",
+        "reserveCoinRatio": "719.8051166009802313"
+    },
+    {
+        "time": "2021-05-24T11:25:00.000Z",
+        "reserveRatio": "362.11907735837668722",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.001389264923153282013",
+        "reserveCoinRatio": "719.8051166009802313"
+    },
+    {
+        "time": "2021-05-24T11:30:00.000Z",
+        "reserveRatio": "362.11907735837668722",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.001389264923153282013",
+        "reserveCoinRatio": "719.8051166009802313"
+    },
+    {
+        "time": "2021-05-24T11:35:00.000Z",
+        "reserveRatio": "362.12560090230598338",
+        "stableCoinPrice": "0.124425898",
+        "stableCoinRatio": "8.0369120582919160447",
+        "reserveCoinPrice": "0.0013892656010920343085",
+        "reserveCoinRatio": "719.80476534792807136"
+    },
+    {
+        "time": "2021-05-24T11:40:00.000Z",
+        "reserveRatio": "363.90875408922852802",
+        "stableCoinPrice": "0.123816211",
+        "stableCoinRatio": "8.0764868503365847627",
+        "reserveCoinPrice": "0.0013918626013606938917",
+        "reserveCoinRatio": "718.46172102217095623"
+    },
+    {
+        "time": "2021-05-24T11:45:00.000Z",
+        "reserveRatio": "363.90875408922852802",
+        "stableCoinPrice": "0.123816211",
+        "stableCoinRatio": "8.0764868503365847627",
+        "reserveCoinPrice": "0.0013918626013606938917",
+        "reserveCoinRatio": "718.46172102217095623"
+    },
+    {
+        "time": "2021-05-24T11:50:00.000Z",
+        "reserveRatio": "363.90875408922852802",
+        "stableCoinPrice": "0.123816211",
+        "stableCoinRatio": "8.0764868503365847627",
+        "reserveCoinPrice": "0.0013918626013606938917",
+        "reserveCoinRatio": "718.46172102217095623"
+    },
+    {
+        "time": "2021-05-24T11:55:00.000Z",
+        "reserveRatio": "363.90875408922852802",
+        "stableCoinPrice": "0.123816211",
+        "stableCoinRatio": "8.0764868503365847627",
+        "reserveCoinPrice": "0.0013918626013606938917",
+        "reserveCoinRatio": "718.46172102217095623"
+    },
+    {
+        "time": "2021-05-24T12:00:00.000Z",
+        "reserveRatio": "363.90875408922852802",
+        "stableCoinPrice": "0.123816211",
+        "stableCoinRatio": "8.0764868503365847627",
+        "reserveCoinPrice": "0.0013918626013606938917",
+        "reserveCoinRatio": "718.46172102217095623"
+    },
+    {
+        "time": "2021-05-24T12:05:00.000Z",
+        "reserveRatio": "365.70068913802467939",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013944468783142713324",
+        "reserveCoinRatio": "717.13022242115595994"
+    },
+    {
+        "time": "2021-05-24T12:10:00.000Z",
+        "reserveRatio": "365.70068913802467939",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013944468783142713324",
+        "reserveCoinRatio": "717.13022242115595994"
+    },
+    {
+        "time": "2021-05-24T12:15:00.000Z",
+        "reserveRatio": "365.70068913802467939",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013944468783142713324",
+        "reserveCoinRatio": "717.13022242115595994"
+    },
+    {
+        "time": "2021-05-24T12:20:00.000Z",
+        "reserveRatio": "365.71581351012693969",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013944484345613808373",
+        "reserveCoinRatio": "717.12942208189054094"
+    },
+    {
+        "time": "2021-05-24T12:25:00.000Z",
+        "reserveRatio": "365.71581351012693969",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013944484345613808373",
+        "reserveCoinRatio": "717.12942208189054094"
+    },
+    {
+        "time": "2021-05-24T12:30:00.000Z",
+        "reserveRatio": "365.71581351012693969",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013944484345613808373",
+        "reserveCoinRatio": "717.12942208189054094"
+    },
+    {
+        "time": "2021-05-24T12:35:00.000Z",
+        "reserveRatio": "368.39332037706946122",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013945523671091931153",
+        "reserveCoinRatio": "717.07597619509131008"
+    },
+    {
+        "time": "2021-05-24T12:40:00.000Z",
+        "reserveRatio": "368.39332037706946122",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013945523671091931153",
+        "reserveCoinRatio": "717.07597619509131008"
+    },
+    {
+        "time": "2021-05-24T12:45:00.000Z",
+        "reserveRatio": "368.39332037706946122",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013945523671091931153",
+        "reserveCoinRatio": "717.07597619509131008"
+    },
+    {
+        "time": "2021-05-24T12:50:00.000Z",
+        "reserveRatio": "368.39332037706946122",
+        "stableCoinPrice": "0.123209511",
+        "stableCoinRatio": "8.116256544513028706",
+        "reserveCoinPrice": "0.0013945523671091931153",
+        "reserveCoinRatio": "717.07597619509131008"
+    },
+    {
+        "time": "2021-05-24T12:55:00.000Z",
+        "reserveRatio": "370.33229583696631409",
+        "stableCoinPrice": "0.122605784",
+        "stableCoinRatio": "8.1562220588222819896",
+        "reserveCoinPrice": "0.0013971098801628912574",
+        "reserveCoinRatio": "715.76331554065626787"
+    },
+    {
+        "time": "2021-05-24T13:00:00.000Z",
+        "reserveRatio": "370.33229583696631409",
+        "stableCoinPrice": "0.122605784",
+        "stableCoinRatio": "8.1562220588222819896",
+        "reserveCoinPrice": "0.0013971098801628912574",
+        "reserveCoinRatio": "715.76331554065626787"
+    },
+    {
+        "time": "2021-05-24T13:05:00.000Z",
+        "reserveRatio": "370.33229583696631409",
+        "stableCoinPrice": "0.122605784",
+        "stableCoinRatio": "8.1562220588222819896",
+        "reserveCoinPrice": "0.0013971098801628912574",
+        "reserveCoinRatio": "715.76331554065626787"
+    },
+    {
+        "time": "2021-05-24T13:10:00.000Z",
+        "reserveRatio": "370.33229583696631409",
+        "stableCoinPrice": "0.122605784",
+        "stableCoinRatio": "8.1562220588222819896",
+        "reserveCoinPrice": "0.0013971098801628912574",
+        "reserveCoinRatio": "715.76331554065626787"
+    },
+    {
+        "time": "2021-05-24T13:15:00.000Z",
+        "reserveRatio": "372.15586155709411716",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996422619836286289",
+        "reserveCoinRatio": "714.4682803324045565"
+    },
+    {
+        "time": "2021-05-24T13:20:00.000Z",
+        "reserveRatio": "372.15586155709411716",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996422619836286289",
+        "reserveCoinRatio": "714.4682803324045565"
+    },
+    {
+        "time": "2021-05-24T13:25:00.000Z",
+        "reserveRatio": "372.15586155709411716",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996422619836286289",
+        "reserveCoinRatio": "714.4682803324045565"
+    },
+    {
+        "time": "2021-05-24T13:30:00.000Z",
+        "reserveRatio": "372.15586155709411716",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996422619836286289",
+        "reserveCoinRatio": "714.4682803324045565"
+    },
+    {
+        "time": "2021-05-24T13:35:00.000Z",
+        "reserveRatio": "372.15586155709411716",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996422619836286289",
+        "reserveCoinRatio": "714.4682803324045565"
+    },
+    {
+        "time": "2021-05-24T13:40:00.000Z",
+        "reserveRatio": "372.2818937751015168",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996549663757795054",
+        "reserveCoinRatio": "714.46179524470025705"
+    },
+    {
+        "time": "2021-05-24T13:45:00.000Z",
+        "reserveRatio": "372.2818937751015168",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996549663757795054",
+        "reserveCoinRatio": "714.46179524470025705"
+    },
+    {
+        "time": "2021-05-24T13:50:00.000Z",
+        "reserveRatio": "372.2818937751015168",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996549663757795054",
+        "reserveCoinRatio": "714.46179524470025705"
+    },
+    {
+        "time": "2021-05-24T13:55:00.000Z",
+        "reserveRatio": "372.2818937751015168",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996549663757795054",
+        "reserveCoinRatio": "714.46179524470025705"
+    },
+    {
+        "time": "2021-05-24T14:00:00.000Z",
+        "reserveRatio": "372.2818937751015168",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996549663757795054",
+        "reserveCoinRatio": "714.46179524470025705"
+    },
+    {
+        "time": "2021-05-24T14:05:00.000Z",
+        "reserveRatio": "372.2818937751015168",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013996549663757795054",
+        "reserveCoinRatio": "714.46179524470025705"
+    },
+    {
+        "time": "2021-05-24T14:10:00.000Z",
+        "reserveRatio": "375.61576972066685078",
+        "stableCoinPrice": "0.122005015",
+        "stableCoinRatio": "8.1963843863303487975",
+        "reserveCoinPrice": "0.0013997785611910788895",
+        "reserveCoinRatio": "714.3987111426358584"
+    },
+    {
+        "time": "2021-05-24T14:15:00.000Z",
+        "reserveRatio": "377.46535126137508775",
+        "stableCoinPrice": "0.12140719",
+        "stableCoinRatio": "8.2367444629926777813",
+        "reserveCoinPrice": "0.0014022671415252429095",
+        "reserveCoinRatio": "713.13087955002795146"
+    },
+    {
+        "time": "2021-05-24T14:20:00.000Z",
+        "reserveRatio": "377.46535126137508775",
+        "stableCoinPrice": "0.12140719",
+        "stableCoinRatio": "8.2367444629926777813",
+        "reserveCoinPrice": "0.0014022671415252429095",
+        "reserveCoinRatio": "713.13087955002795146"
+    },
+    {
+        "time": "2021-05-24T14:25:00.000Z",
+        "reserveRatio": "377.46535126137508775",
+        "stableCoinPrice": "0.12140719",
+        "stableCoinRatio": "8.2367444629926777813",
+        "reserveCoinPrice": "0.0014022671415252429095",
+        "reserveCoinRatio": "713.13087955002795146"
+    },
+    {
+        "time": "2021-05-24T14:30:00.000Z",
+        "reserveRatio": "377.46535126137508775",
+        "stableCoinPrice": "0.12140719",
+        "stableCoinRatio": "8.2367444629926777813",
+        "reserveCoinPrice": "0.0014022671415252429095",
+        "reserveCoinRatio": "713.13087955002795146"
+    },
+    {
+        "time": "2021-05-24T14:35:00.000Z",
+        "reserveRatio": "377.46535126137508775",
+        "stableCoinPrice": "0.12140719",
+        "stableCoinRatio": "8.2367444629926777813",
+        "reserveCoinPrice": "0.0014022671415252429095",
+        "reserveCoinRatio": "713.13087955002795146"
+    },
+    {
+        "time": "2021-05-24T14:40:00.000Z",
+        "reserveRatio": "377.46535126137508775",
+        "stableCoinPrice": "0.12140719",
+        "stableCoinRatio": "8.2367444629926777813",
+        "reserveCoinPrice": "0.0014022671415252429095",
+        "reserveCoinRatio": "713.13087955002795146"
+    },
+    {
+        "time": "2021-05-24T14:45:00.000Z",
+        "reserveRatio": "377.46535126137508775",
+        "stableCoinPrice": "0.12140719",
+        "stableCoinRatio": "8.2367444629926777813",
+        "reserveCoinPrice": "0.0014022671415252429095",
+        "reserveCoinRatio": "713.13087955002795146"
+    },
+    {
+        "time": "2021-05-24T14:50:00.000Z",
+        "reserveRatio": "379.32404146722439473",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047435292415024151",
+        "reserveCoinRatio": "711.87371871358930295"
+    },
+    {
+        "time": "2021-05-24T14:55:00.000Z",
+        "reserveRatio": "379.32404146722439473",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047435292415024151",
+        "reserveCoinRatio": "711.87371871358930295"
+    },
+    {
+        "time": "2021-05-24T15:00:00.000Z",
+        "reserveRatio": "379.32404146722439473",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047435292415024151",
+        "reserveCoinRatio": "711.87371871358930295"
+    },
+    {
+        "time": "2021-05-24T15:05:00.000Z",
+        "reserveRatio": "379.32404146722439473",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047435292415024151",
+        "reserveCoinRatio": "711.87371871358930295"
+    },
+    {
+        "time": "2021-05-24T15:10:00.000Z",
+        "reserveRatio": "379.39792248145395088",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047508125819527178",
+        "reserveCoinRatio": "711.87002779659208526"
+    },
+    {
+        "time": "2021-05-24T15:15:00.000Z",
+        "reserveRatio": "379.39792248145395088",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047508125819527178",
+        "reserveCoinRatio": "711.87002779659208526"
+    },
+    {
+        "time": "2021-05-24T15:20:00.000Z",
+        "reserveRatio": "379.39792248145395088",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047508125819527178",
+        "reserveCoinRatio": "711.87002779659208526"
+    },
+    {
+        "time": "2021-05-24T15:25:00.000Z",
+        "reserveRatio": "379.39792248145395088",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047508125819527178",
+        "reserveCoinRatio": "711.87002779659208526"
+    },
+    {
+        "time": "2021-05-24T15:30:00.000Z",
+        "reserveRatio": "379.39792248145395088",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047508125819527178",
+        "reserveCoinRatio": "711.87002779659208526"
+    },
+    {
+        "time": "2021-05-24T15:35:00.000Z",
+        "reserveRatio": "379.39792248145395088",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047508125819527178",
+        "reserveCoinRatio": "711.87002779659208526"
+    },
+    {
+        "time": "2021-05-24T15:40:00.000Z",
+        "reserveRatio": "379.39792248145395088",
+        "stableCoinPrice": "0.120812294",
+        "stableCoinRatio": "8.2773033015994216615",
+        "reserveCoinPrice": "0.0014047508125819527178",
+        "reserveCoinRatio": "711.87002779659208526"
+    },
+    {
+        "time": "2021-05-24T15:45:00.000Z",
+        "reserveRatio": "381.26612890966790497",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014072144271108219623",
+        "reserveCoinRatio": "710.62375479842012808"
+    },
+    {
+        "time": "2021-05-24T15:50:00.000Z",
+        "reserveRatio": "381.26612890966790497",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014072144271108219623",
+        "reserveCoinRatio": "710.62375479842012808"
+    },
+    {
+        "time": "2021-05-24T15:55:00.000Z",
+        "reserveRatio": "381.26612890966790497",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014072144271108219623",
+        "reserveCoinRatio": "710.62375479842012808"
+    },
+    {
+        "time": "2021-05-24T16:00:00.000Z",
+        "reserveRatio": "382.19779386240187287",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014072472301573407263",
+        "reserveCoinRatio": "710.6071901013388732"
+    },
+    {
+        "time": "2021-05-24T16:05:00.000Z",
+        "reserveRatio": "385.81695044648181512",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014075967114297054352",
+        "reserveCoinRatio": "710.43075895246535678"
+    },
+    {
+        "time": "2021-05-24T16:10:00.000Z",
+        "reserveRatio": "385.81695044648181512",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014075967114297054352",
+        "reserveCoinRatio": "710.43075895246535678"
+    },
+    {
+        "time": "2021-05-24T16:15:00.000Z",
+        "reserveRatio": "385.81695044648181512",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014075967114297054352",
+        "reserveCoinRatio": "710.43075895246535678"
+    },
+    {
+        "time": "2021-05-24T16:20:00.000Z",
+        "reserveRatio": "385.81695044648181512",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014075967114297054352",
+        "reserveCoinRatio": "710.43075895246535678"
+    },
+    {
+        "time": "2021-05-24T16:25:00.000Z",
+        "reserveRatio": "385.84680656311661769",
+        "stableCoinPrice": "0.120220313",
+        "stableCoinRatio": "8.3180618569841853598",
+        "reserveCoinPrice": "0.0014075995941197984943",
+        "reserveCoinRatio": "710.42930402755688708"
+    },
+    {
+        "time": "2021-05-24T16:30:00.000Z",
+        "reserveRatio": "388.19944253525461341",
+        "stableCoinPrice": "0.119631233",
+        "stableCoinRatio": "8.3590210927609514816",
+        "reserveCoinPrice": "0.0014100241283638434185",
+        "reserveCoinRatio": "709.20772197024378721"
+    },
+    {
+        "time": "2021-05-24T16:35:00.000Z",
+        "reserveRatio": "388.19944253525461341",
+        "stableCoinPrice": "0.119631233",
+        "stableCoinRatio": "8.3590210927609514816",
+        "reserveCoinPrice": "0.0014100241283638434185",
+        "reserveCoinRatio": "709.20772197024378721"
+    },
+    {
+        "time": "2021-05-24T16:40:00.000Z",
+        "reserveRatio": "388.19944253525461341",
+        "stableCoinPrice": "0.119631233",
+        "stableCoinRatio": "8.3590210927609514816",
+        "reserveCoinPrice": "0.0014100241283638434185",
+        "reserveCoinRatio": "709.20772197024378721"
+    },
+    {
+        "time": "2021-05-24T16:45:00.000Z",
+        "reserveRatio": "388.20039623010072713",
+        "stableCoinPrice": "0.119631233",
+        "stableCoinRatio": "8.3590210927609514816",
+        "reserveCoinPrice": "0.0014100241605212241727",
+        "reserveCoinRatio": "709.20770579586650506"
+    },
+    {
+        "time": "2021-05-24T16:50:00.000Z",
+        "reserveRatio": "390.11194789978187752",
+        "stableCoinPrice": "0.119045039",
+        "stableCoinRatio": "8.4001820521055060514",
+        "reserveCoinPrice": "0.0014124214957684545849",
+        "reserveCoinRatio": "708.00395136717394509"
+    },
+    {
+        "time": "2021-05-24T16:55:00.000Z",
+        "reserveRatio": "390.11194789978187752",
+        "stableCoinPrice": "0.119045039",
+        "stableCoinRatio": "8.4001820521055060514",
+        "reserveCoinPrice": "0.0014124214957684545849",
+        "reserveCoinRatio": "708.00395136717394509"
+    },
+    {
+        "time": "2021-05-24T17:00:00.000Z",
+        "reserveRatio": "390.11194789978187752",
+        "stableCoinPrice": "0.119045039",
+        "stableCoinRatio": "8.4001820521055060514",
+        "reserveCoinPrice": "0.0014124214957684545849",
+        "reserveCoinRatio": "708.00395136717394509"
+    },
+    {
+        "time": "2021-05-24T17:05:00.000Z",
+        "reserveRatio": "392.03291017690205794",
+        "stableCoinPrice": "0.118461718",
+        "stableCoinRatio": "8.441545647683414485",
+        "reserveCoinPrice": "0.0014148070814171471529",
+        "reserveCoinRatio": "706.81014615670852717"
+    },
+    {
+        "time": "2021-05-24T17:10:00.000Z",
+        "reserveRatio": "392.03291017690205794",
+        "stableCoinPrice": "0.118461718",
+        "stableCoinRatio": "8.441545647683414485",
+        "reserveCoinPrice": "0.0014148070814171471529",
+        "reserveCoinRatio": "706.81014615670852717"
+    },
+    {
+        "time": "2021-05-24T17:15:00.000Z",
+        "reserveRatio": "392.03291017690205794",
+        "stableCoinPrice": "0.118461718",
+        "stableCoinRatio": "8.441545647683414485",
+        "reserveCoinPrice": "0.0014148070814171471529",
+        "reserveCoinRatio": "706.81014615670852717"
+    },
+    {
+        "time": "2021-05-24T17:20:00.000Z",
+        "reserveRatio": "392.03367273486914884",
+        "stableCoinPrice": "0.118461718",
+        "stableCoinRatio": "8.441545647683414485",
+        "reserveCoinPrice": "0.0014148071538550308852",
+        "reserveCoinRatio": "706.81010996815021475"
+    },
+    {
+        "time": "2021-05-24T17:25:00.000Z",
+        "reserveRatio": "393.96409875363439146",
+        "stableCoinPrice": "0.117881255",
+        "stableCoinRatio": "8.4831129427660063511",
+        "reserveCoinPrice": "0.0014171810451729384526",
+        "reserveCoinRatio": "705.62614664237913659"
+    },
+    {
+        "time": "2021-05-24T17:30:00.000Z",
+        "reserveRatio": "395.90403136371968791",
+        "stableCoinPrice": "0.117303636",
+        "stableCoinRatio": "8.5248849404804468295",
+        "reserveCoinPrice": "0.0014195433055222776028",
+        "reserveCoinRatio": "704.45191499957836267"
+    },
+    {
+        "time": "2021-05-24T17:35:00.000Z",
+        "reserveRatio": "395.90403136371968791",
+        "stableCoinPrice": "0.117303636",
+        "stableCoinRatio": "8.5248849404804468295",
+        "reserveCoinPrice": "0.0014195433055222776028",
+        "reserveCoinRatio": "704.45191499957836267"
+    },
+    {
+        "time": "2021-05-24T17:40:00.000Z",
+        "reserveRatio": "395.90403136371968791",
+        "stableCoinPrice": "0.117303636",
+        "stableCoinRatio": "8.5248849404804468295",
+        "reserveCoinPrice": "0.0014195433055222776028",
+        "reserveCoinRatio": "704.45191499957836267"
+    },
+    {
+        "time": "2021-05-24T17:45:00.000Z",
+        "reserveRatio": "397.8535142060372075",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.0014218939880685164757",
+        "reserveCoinRatio": "703.28731142494515703"
+    },
+    {
+        "time": "2021-05-24T17:50:00.000Z",
+        "reserveRatio": "397.8535142060372075",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.0014218939880685164757",
+        "reserveCoinRatio": "703.28731142494515703"
+    },
+    {
+        "time": "2021-05-24T17:55:00.000Z",
+        "reserveRatio": "397.8535142060372075",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.0014218939880685164757",
+        "reserveCoinRatio": "703.28731142494515703"
+    },
+    {
+        "time": "2021-05-24T18:00:00.000Z",
+        "reserveRatio": "397.8535142060372075",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.0014218939880685164757",
+        "reserveCoinRatio": "703.28731142494515703"
+    },
+    {
+        "time": "2021-05-24T18:05:00.000Z",
+        "reserveRatio": "397.8535142060372075",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.0014218939880685164757",
+        "reserveCoinRatio": "703.28731142494515703"
+    },
+    {
+        "time": "2021-05-24T18:10:00.000Z",
+        "reserveRatio": "398.70054716260016841",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.001421920882927254082",
+        "reserveCoinRatio": "703.27400912865017216"
+    },
+    {
+        "time": "2021-05-24T18:15:00.000Z",
+        "reserveRatio": "398.70054716260016841",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.001421920882927254082",
+        "reserveCoinRatio": "703.27400912865017216"
+    },
+    {
+        "time": "2021-05-24T18:20:00.000Z",
+        "reserveRatio": "398.70054716260016841",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.001421920882927254082",
+        "reserveCoinRatio": "703.27400912865017216"
+    },
+    {
+        "time": "2021-05-24T18:25:00.000Z",
+        "reserveRatio": "399.50391281254700856",
+        "stableCoinPrice": "0.116728848",
+        "stableCoinRatio": "8.5668625805336483746",
+        "reserveCoinPrice": "0.0014219956724297555532",
+        "reserveCoinRatio": "703.23702061013022913"
+    },
+    {
+        "time": "2021-05-24T18:30:00.000Z",
+        "reserveRatio": "401.47112353556282157",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221150409568158",
+        "reserveCoinRatio": "702.08837554364919464"
+    },
+    {
+        "time": "2021-05-24T18:35:00.000Z",
+        "reserveRatio": "401.47112353556282157",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221150409568158",
+        "reserveCoinRatio": "702.08837554364919464"
+    },
+    {
+        "time": "2021-05-24T18:40:00.000Z",
+        "reserveRatio": "401.47112353556282157",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221150409568158",
+        "reserveCoinRatio": "702.08837554364919464"
+    },
+    {
+        "time": "2021-05-24T18:45:00.000Z",
+        "reserveRatio": "401.47112353556282157",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221150409568158",
+        "reserveCoinRatio": "702.08837554364919464"
+    },
+    {
+        "time": "2021-05-24T18:50:00.000Z",
+        "reserveRatio": "401.47112353556282157",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221150409568158",
+        "reserveCoinRatio": "702.08837554364919464"
+    },
+    {
+        "time": "2021-05-24T18:55:00.000Z",
+        "reserveRatio": "401.47112353556282157",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221150409568158",
+        "reserveCoinRatio": "702.08837554364919464"
+    },
+    {
+        "time": "2021-05-24T19:00:00.000Z",
+        "reserveRatio": "401.47112353556282157",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221150409568158",
+        "reserveCoinRatio": "702.08837554364919464"
+    },
+    {
+        "time": "2021-05-24T19:05:00.000Z",
+        "reserveRatio": "401.47207604091549415",
+        "stableCoinPrice": "0.116156876",
+        "stableCoinRatio": "8.609046958184378168",
+        "reserveCoinPrice": "0.0014243221446998550892",
+        "reserveCoinRatio": "702.08836092394550845"
+    },
+    {
+        "time": "2021-05-24T19:10:00.000Z",
+        "reserveRatio": "403.44897709708171632",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266371791045309563",
+        "reserveCoinRatio": "700.94906725175786526"
+    },
+    {
+        "time": "2021-05-24T19:15:00.000Z",
+        "reserveRatio": "403.44897709708171632",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266371791045309563",
+        "reserveCoinRatio": "700.94906725175786526"
+    },
+    {
+        "time": "2021-05-24T19:20:00.000Z",
+        "reserveRatio": "403.44897709708171632",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266371791045309563",
+        "reserveCoinRatio": "700.94906725175786526"
+    },
+    {
+        "time": "2021-05-24T19:25:00.000Z",
+        "reserveRatio": "403.44897709708171632",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266371791045309563",
+        "reserveCoinRatio": "700.94906725175786526"
+    },
+    {
+        "time": "2021-05-24T19:30:00.000Z",
+        "reserveRatio": "403.5448785037878152",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266401303756302533",
+        "reserveCoinRatio": "700.94761720792395557"
+    },
+    {
+        "time": "2021-05-24T19:35:00.000Z",
+        "reserveRatio": "403.5448785037878152",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266401303756302533",
+        "reserveCoinRatio": "700.94761720792395557"
+    },
+    {
+        "time": "2021-05-24T19:40:00.000Z",
+        "reserveRatio": "403.5448785037878152",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266401303756302533",
+        "reserveCoinRatio": "700.94761720792395557"
+    },
+    {
+        "time": "2021-05-24T19:45:00.000Z",
+        "reserveRatio": "403.5448785037878152",
+        "stableCoinPrice": "0.115587707",
+        "stableCoinRatio": "8.6514390323531549942",
+        "reserveCoinPrice": "0.0014266401303756302533",
+        "reserveCoinRatio": "700.94761720792395557"
+    },
+    {
+        "time": "2021-05-24T19:50:00.000Z",
+        "reserveRatio": "405.53198606243192076",
+        "stableCoinPrice": "0.115021327",
+        "stableCoinRatio": "8.6940398453236415887",
+        "reserveCoinPrice": "0.001428943097759703009",
+        "reserveCoinRatio": "699.81792946675063663"
+    },
+    {
+        "time": "2021-05-24T19:55:00.000Z",
+        "reserveRatio": "405.53198606243192076",
+        "stableCoinPrice": "0.115021327",
+        "stableCoinRatio": "8.6940398453236415887",
+        "reserveCoinPrice": "0.001428943097759703009",
+        "reserveCoinRatio": "699.81792946675063663"
+    },
+    {
+        "time": "2021-05-24T20:00:00.000Z",
+        "reserveRatio": "405.53198606243192076",
+        "stableCoinPrice": "0.115021327",
+        "stableCoinRatio": "8.6940398453236415887",
+        "reserveCoinPrice": "0.001428943097759703009",
+        "reserveCoinRatio": "699.81792946675063663"
+    },
+    {
+        "time": "2021-05-24T20:05:00.000Z",
+        "reserveRatio": "407.51505052876180757",
+        "stableCoinPrice": "0.114457722",
+        "stableCoinRatio": "8.7368504503348406672",
+        "reserveCoinPrice": "0.0014312362005117461261",
+        "reserveCoinRatio": "698.69669286065058591"
+    },
+    {
+        "time": "2021-05-24T20:10:00.000Z",
+        "reserveRatio": "407.51505052876180757",
+        "stableCoinPrice": "0.114457722",
+        "stableCoinRatio": "8.7368504503348406672",
+        "reserveCoinPrice": "0.0014312362005117461261",
+        "reserveCoinRatio": "698.69669286065058591"
+    },
+    {
+        "time": "2021-05-24T20:15:00.000Z",
+        "reserveRatio": "407.51505052876180757",
+        "stableCoinPrice": "0.114457722",
+        "stableCoinRatio": "8.7368504503348406672",
+        "reserveCoinPrice": "0.0014312362005117461261",
+        "reserveCoinRatio": "698.69669286065058591"
+    },
+    {
+        "time": "2021-05-24T20:20:00.000Z",
+        "reserveRatio": "407.51505052876180757",
+        "stableCoinPrice": "0.114457722",
+        "stableCoinRatio": "8.7368504503348406672",
+        "reserveCoinPrice": "0.0014312362005117461261",
+        "reserveCoinRatio": "698.69669286065058591"
+    },
+    {
+        "time": "2021-05-24T20:25:00.000Z",
+        "reserveRatio": "409.52170747573313203",
+        "stableCoinPrice": "0.113896879",
+        "stableCoinRatio": "8.7798718347673073641",
+        "reserveCoinPrice": "0.0014335167586173341912",
+        "reserveCoinRatio": "697.58514784614526073"
+    },
+    {
+        "time": "2021-05-24T20:30:00.000Z",
+        "reserveRatio": "409.52170747573313203",
+        "stableCoinPrice": "0.113896879",
+        "stableCoinRatio": "8.7798718347673073641",
+        "reserveCoinPrice": "0.0014335167586173341912",
+        "reserveCoinRatio": "697.58514784614526073"
+    },
+    {
+        "time": "2021-05-24T20:35:00.000Z",
+        "reserveRatio": "409.52170747573313203",
+        "stableCoinPrice": "0.113896879",
+        "stableCoinRatio": "8.7798718347673073641",
+        "reserveCoinPrice": "0.0014335167586173341912",
+        "reserveCoinRatio": "697.58514784614526073"
+    },
+    {
+        "time": "2021-05-24T20:40:00.000Z",
+        "reserveRatio": "409.54127031879306796",
+        "stableCoinPrice": "0.113896879",
+        "stableCoinRatio": "8.7798718347673073641",
+        "reserveCoinPrice": "0.0014335173402820331202",
+        "reserveCoinRatio": "697.58486479365360448"
+    },
+    {
+        "time": "2021-05-24T20:45:00.000Z",
+        "reserveRatio": "411.56065963867862701",
+        "stableCoinPrice": "0.113338784",
+        "stableCoinRatio": "8.823105072311345779",
+        "reserveCoinPrice": "0.0014357868108776258548",
+        "reserveCoinRatio": "696.48223010820749039"
+    },
+    {
+        "time": "2021-05-24T20:50:00.000Z",
+        "reserveRatio": "411.56065963867862701",
+        "stableCoinPrice": "0.113338784",
+        "stableCoinRatio": "8.823105072311345779",
+        "reserveCoinPrice": "0.0014357868108776258548",
+        "reserveCoinRatio": "696.48223010820749039"
+    },
+    {
+        "time": "2021-05-24T20:55:00.000Z",
+        "reserveRatio": "413.58724061501232279",
+        "stableCoinPrice": "0.112783423",
+        "stableCoinRatio": "8.8665512484046525171",
+        "reserveCoinPrice": "0.0014380449160962257913",
+        "reserveCoinRatio": "695.38857152990740412"
+    },
+    {
+        "time": "2021-05-24T21:00:00.000Z",
+        "reserveRatio": "413.58724061501232279",
+        "stableCoinPrice": "0.112783423",
+        "stableCoinRatio": "8.8665512484046525171",
+        "reserveCoinPrice": "0.0014380449160962257913",
+        "reserveCoinRatio": "695.38857152990740412"
+    },
+    {
+        "time": "2021-05-24T21:05:00.000Z",
+        "reserveRatio": "413.58724061501232279",
+        "stableCoinPrice": "0.112783423",
+        "stableCoinRatio": "8.8665512484046525171",
+        "reserveCoinPrice": "0.0014380449160962257913",
+        "reserveCoinRatio": "695.38857152990740412"
+    },
+    {
+        "time": "2021-05-24T21:10:00.000Z",
+        "reserveRatio": "413.58724061501232279",
+        "stableCoinPrice": "0.112783423",
+        "stableCoinRatio": "8.8665512484046525171",
+        "reserveCoinPrice": "0.0014380449160962257913",
+        "reserveCoinRatio": "695.38857152990740412"
+    },
+    {
+        "time": "2021-05-24T21:15:00.000Z",
+        "reserveRatio": "413.58724061501232279",
+        "stableCoinPrice": "0.112783423",
+        "stableCoinRatio": "8.8665512484046525171",
+        "reserveCoinPrice": "0.0014380449160962257913",
+        "reserveCoinRatio": "695.38857152990740412"
+    },
+    {
+        "time": "2021-05-24T21:20:00.000Z",
+        "reserveRatio": "415.62379806315631683",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014402919536265922562",
+        "reserveCoinRatio": "694.30367744681462666"
+    },
+    {
+        "time": "2021-05-24T21:25:00.000Z",
+        "reserveRatio": "415.62379806315631683",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014402919536265922562",
+        "reserveCoinRatio": "694.30367744681462666"
+    },
+    {
+        "time": "2021-05-24T21:30:00.000Z",
+        "reserveRatio": "415.62379806315631683",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014402919536265922562",
+        "reserveCoinRatio": "694.30367744681462666"
+    },
+    {
+        "time": "2021-05-24T21:35:00.000Z",
+        "reserveRatio": "459.94608306385145487",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014414096012233490388",
+        "reserveCoinRatio": "693.76532468722482276"
+    },
+    {
+        "time": "2021-05-24T21:40:00.000Z",
+        "reserveRatio": "459.94608306385145487",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014414096012233490388",
+        "reserveCoinRatio": "693.76532468722482276"
+    },
+    {
+        "time": "2021-05-24T21:45:00.000Z",
+        "reserveRatio": "459.94608306385145487",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014414096012233490388",
+        "reserveCoinRatio": "693.76532468722482276"
+    },
+    {
+        "time": "2021-05-24T21:50:00.000Z",
+        "reserveRatio": "459.94608306385145487",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014414096012233490388",
+        "reserveCoinRatio": "693.76532468722482276"
+    },
+    {
+        "time": "2021-05-24T21:55:00.000Z",
+        "reserveRatio": "459.95903408190165559",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014414098877996558995",
+        "reserveCoinRatio": "693.76518675511664195"
+    },
+    {
+        "time": "2021-05-24T22:00:00.000Z",
+        "reserveRatio": "459.95903408190165559",
+        "stableCoinPrice": "0.112230784",
+        "stableCoinRatio": "8.9102113017405278039",
+        "reserveCoinPrice": "0.0014414098877996558995",
+        "reserveCoinRatio": "693.76518675511664195"
+    },
+    {
+        "time": "2021-05-24T22:05:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:10:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:15:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:20:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:25:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:30:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:35:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:40:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:45:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:50:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T22:55:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T23:00:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T23:05:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T23:10:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T23:15:00.000Z",
+        "reserveRatio": "462.22393200107938841",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014433720306592193929",
+        "reserveCoinRatio": "692.8220713430883476"
+    },
+    {
+        "time": "2021-05-24T23:20:00.000Z",
+        "reserveRatio": "470.21500543143998551",
+        "stableCoinPrice": "0.111680853",
+        "stableCoinRatio": "8.9540863374315380632",
+        "reserveCoinPrice": "0.0014435431316125153631",
+        "reserveCoinRatio": "692.73995220561659591"
+    },
+    {
+        "time": "2021-05-24T23:25:00.000Z",
+        "reserveRatio": "472.53040790090777394",
+        "stableCoinPrice": "0.111133616",
+        "stableCoinRatio": "8.9981774731418799511",
+        "reserveCoinPrice": "0.0014454537435120886738",
+        "reserveCoinRatio": "691.82428319722758524"
+    },
+    {
+        "time": "2021-05-24T23:30:00.000Z",
+        "reserveRatio": "472.66741127817459467",
+        "stableCoinPrice": "0.111133616",
+        "stableCoinRatio": "8.9981774731418799511",
+        "reserveCoinPrice": "0.0014454565811754106157",
+        "reserveCoinRatio": "691.82292503509444035"
+    },
+    {
+        "time": "2021-05-24T23:35:00.000Z",
+        "reserveRatio": "472.66741127817459467",
+        "stableCoinPrice": "0.111133616",
+        "stableCoinRatio": "8.9981774731418799511",
+        "reserveCoinPrice": "0.0014454565811754106157",
+        "reserveCoinRatio": "691.82292503509444035"
+    },
+    {
+        "time": "2021-05-24T23:40:00.000Z",
+        "reserveRatio": "472.66741127817459467",
+        "stableCoinPrice": "0.111133616",
+        "stableCoinRatio": "8.9981774731418799511",
+        "reserveCoinPrice": "0.0014454565811754106157",
+        "reserveCoinRatio": "691.82292503509444035"
+    },
+    {
+        "time": "2021-05-24T23:45:00.000Z",
+        "reserveRatio": "472.66741127817459467",
+        "stableCoinPrice": "0.111133616",
+        "stableCoinRatio": "8.9981774731418799511",
+        "reserveCoinPrice": "0.0014454565811754106157",
+        "reserveCoinRatio": "691.82292503509444035"
+    },
+    {
+        "time": "2021-05-24T23:50:00.000Z",
+        "reserveRatio": "472.66741127817459467",
+        "stableCoinPrice": "0.111133616",
+        "stableCoinRatio": "8.9981774731418799511",
+        "reserveCoinPrice": "0.0014454565811754106157",
+        "reserveCoinRatio": "691.82292503509444035"
+    },
+    {
+        "time": "2021-05-24T23:55:00.000Z",
+        "reserveRatio": "472.66741127817459467",
+        "stableCoinPrice": "0.111133616",
+        "stableCoinRatio": "8.9981774731418799511",
+        "reserveCoinPrice": "0.0014454565811754106157",
+        "reserveCoinRatio": "691.82292503509444035"
+    }
+]

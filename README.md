@@ -1,1 +1,1 @@
-# sigmausd-history
+# SigmaUSD History
