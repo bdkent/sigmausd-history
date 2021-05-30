@@ -31,7 +31,7 @@ function nowDateRange() {
 
 async function loadForDate(date: DateTime) {
   const slug = toSlug(date);
-  const url = `${process.env.PUBLIC_URL}/data/json/${slug}.json`
+  const url = `${process.env.PUBLIC_URL}/data/daily/${slug}.json`
   const resp = await fetch(url);
   return await resp.json();
 }
