@@ -2,6 +2,7 @@
 
 echo RESET GIT CHECKOUT
 cd ~/git/sigmausd-history
+git fetch
 git reset --hard origin/main
 
 echo CREATE DAILY DATA 
