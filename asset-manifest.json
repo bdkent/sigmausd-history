@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sigmausd-history/static/css/main.1bceb518.chunk.css",
+    "main.js": "/sigmausd-history/static/js/main.a48fe10f.chunk.js",
+    "main.js.map": "/sigmausd-history/static/js/main.a48fe10f.chunk.js.map",
+    "runtime-main.js": "/sigmausd-history/static/js/runtime-main.8a146c3f.js",
+    "runtime-main.js.map": "/sigmausd-history/static/js/runtime-main.8a146c3f.js.map",
+    "static/js/2.4ba8cf6c.chunk.js": "/sigmausd-history/static/js/2.4ba8cf6c.chunk.js",
+    "static/js/2.4ba8cf6c.chunk.js.map": "/sigmausd-history/static/js/2.4ba8cf6c.chunk.js.map",
+    "static/js/3.b00cfbe8.chunk.js": "/sigmausd-history/static/js/3.b00cfbe8.chunk.js",
+    "static/js/3.b00cfbe8.chunk.js.map": "/sigmausd-history/static/js/3.b00cfbe8.chunk.js.map",
+    "index.html": "/sigmausd-history/index.html",
+    "static/css/main.1bceb518.chunk.css.map": "/sigmausd-history/static/css/main.1bceb518.chunk.css.map",
+    "static/js/2.4ba8cf6c.chunk.js.LICENSE.txt": "/sigmausd-history/static/js/2.4ba8cf6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a146c3f.js",
+    "static/js/2.4ba8cf6c.chunk.js",
+    "static/css/main.1bceb518.chunk.css",
+    "static/js/main.a48fe10f.chunk.js"
+  ]
+}
