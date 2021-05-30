@@ -6,7 +6,7 @@ import { DateTime, Duration } from 'luxon';
 import padStart from 'lodash/padStart';
 import sortBy from 'lodash/sortBy';
 // import { Line } from 'react-chartjs-2';
-import { LineChart, CartesianGrid, XAxis, YAxis, Tooltip, Legend, Line, ReferenceLine, ResponsiveContainer, ReferenceArea } from 'recharts'
+import { LineChart, CartesianGrid, XAxis, YAxis, Tooltip, Line, ResponsiveContainer, ReferenceArea } from 'recharts'
 
 type Item = {
   "time": string;
