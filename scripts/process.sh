@@ -8,7 +8,7 @@ echo CREATE DAILY DATA
 npx ts-node --project ~/git/sigmausd-history/tsconfig.node.json ~/git/sigmausd-history/src/process.ts ~/sigma/data/$(date +%y-%m-%d) >> ~/git/sigmausd-history/public/data/daily/$(date +%y-%m-%d).json
 
 echo ADD NEW DATA
-git add ~/git/sigmausd-history/public/data/daily/$(date +%y-%m-%d).json
+git add ~/git/sigmausd-history/public/data/daily/*.json
 
 echo COMMIT NEW DATA
 git commit -m "adding $(date +%y-%m-%d).json"
