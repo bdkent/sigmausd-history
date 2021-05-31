@@ -14,6 +14,6 @@ echo ADD NEW DATA
 git add ~/git/sigmausd-history/public/data/daily/*.json
 
 echo COMMIT NEW DATA
-git commit -m "adding $(date +%y-%m-%d).json"
+git commit -m "adding $(date +%Y-%m-%d).json"
 
 git push
