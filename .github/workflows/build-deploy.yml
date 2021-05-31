@@ -25,6 +25,12 @@ jobs:
     - name: Install NPM packages
       run: npm ci
     
+    - name: Compile
+      run: npm run compile
+        
+    - name: Run Eslint
+      run: npm run eslint
+    
     - name: Build project
       run: npm run build
     
