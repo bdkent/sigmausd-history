@@ -5,7 +5,6 @@ import 'whatwg-fetch';
 import { DateTime, Duration } from 'luxon';
 import padStart from 'lodash/padStart';
 import sortBy from 'lodash/sortBy';
-// import { Line } from 'react-chartjs-2';
 import { LineChart, CartesianGrid, XAxis, YAxis, Tooltip, Line, ResponsiveContainer, ReferenceArea } from 'recharts'
 
 type Item = {
@@ -84,10 +83,6 @@ function App(): JSX.Element {
     })
   }, [data])
 
-  // type ChartData = {
-  //   labels: string[];
-  //   reserveRatios: number[];
-  // }
   type ChartData = {
     label: string;
     reserveRatio: number;
@@ -113,16 +108,6 @@ function App(): JSX.Element {
 
           }
         ]
-        // return {
-        //   labels: [
-        //     ...acc.labels,
-        //     DateTime.fromISO(item.time).toLocaleString(DateTime.DATETIME_SHORT),
-        //   ],
-        //   reserveRatios: [
-        //     ...acc.reserveRatios,
-        //     parseInt(item.reserveRatio),
-        //   ]
-        // };
       } else {
         return acc;
       }
@@ -134,7 +119,7 @@ function App(): JSX.Element {
 
   return (
     <div className="App container">
-
+      <a className="github-fork-ribbon" href="https://github.com/bdkent/sigmausd-history" data-ribbon="Fork me on GitHub" title="Fork me on GitHub" target="_blank">Fork me on GitHub</a>
       <h1>SigmaUSD History</h1>
 
       <h2>
