@@ -119,7 +119,7 @@ function App(): JSX.Element {
 
   return (
     <div className="App container">
-      <a className="github-fork-ribbon" href="https://github.com/bdkent/sigmausd-history" data-ribbon="Fork me on GitHub" title="Fork me on GitHub" target="_blank">Fork me on GitHub</a>
+      <a className="github-fork-ribbon" href="https://github.com/bdkent/sigmausd-history" data-ribbon="Fork me on GitHub" title="Fork me on GitHub" target="_blank" rel="noreferrer">Fork me on GitHub</a>
       <h1>SigmaUSD History</h1>
 
       <h2>
