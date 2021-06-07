@@ -3,45 +3,14 @@ import './App.scss';
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import 'whatwg-fetch';
 import { DateTime, Duration } from 'luxon';
-import padStart from 'lodash/padStart';
 import sortBy from 'lodash/sortBy';
 import { LineChart, CartesianGrid, XAxis, YAxis, Tooltip, Line, ResponsiveContainer, ReferenceArea } from 'recharts'
 
-type Item = {
-  "time": string;
-  "reserveRatio": string;
-  "stableCoinPrice": string;
-  "stableCoinRatio": string;
-  "reserveCoinPrice": string;
-  "reserveCoinRatio": string;
-}
+import { DateRange, Item, Slug } from './types';
+import { toSlug, nowDateRange } from './utils';
+import { loadForDate } from './DataService';
 
-type DateRange = {
-  start: DateTime;
-  end: DateTime;
-}
-
-function nowDateRange() {
-  const now = DateTime.now().toUTC();
-  return {
-    start: now, end: now
-  };
-}
-
-async function loadForDate(date: DateTime) {
-  const slug = toSlug(date);
-  const url = `${process.env.PUBLIC_URL}/data/daily/${slug}.json`
-  const resp = await fetch(url);
-  return await resp.json();
-}
-
-function toSlug(date: DateTime): Slug {
-  return `${date.year}-${padStart(date.month.toString(), 2, '0')}-${padStart(date.day.toString(), 2, '0')}`
-}
-
-type Slug = string
-
-function App(): JSX.Element {
+const App = (): JSX.Element => {
 
   const [data, setData] = useState<{ [slug: string]: Item[] | undefined }>({});
 
