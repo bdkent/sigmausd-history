@@ -10,6 +10,12 @@ object-assign
   http://jedwatson.github.io/classnames
 */
 
+/*!
+ * @license :jsstore - V4.1.1 - 31/05/2021
+ * https://github.com/ujjwalguptaofficial/JsStore
+ * Copyright (c) 2021 @Ujjwal Gupta; Licensed MIT
+ */
+
 /*! Conditions:: INITIAL */
 
 /*! Production::    $accept : expression $end */
