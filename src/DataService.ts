@@ -1,5 +1,7 @@
 
 import { DateTime } from "luxon";
+import PQueue from "p-queue/dist/index";
+import { Observable } from "rxjs"
 import { connection } from "./ jsstore_con";
 import { Item } from "./types";
 import { todayUTC, toSlug } from "./utils";
@@ -79,3 +81,17 @@ export async function loadForDate(date: DateTime): Promise<Item[]> {
 
     return items;
 }
+
+export function loadForDateRange(dates: DateTime[]): Observable<Item[]> {
+    return new Observable<Item[]>(subscriber => {
+        const queue = new PQueue({ concurrency: 2 });
+        queue.on('completed', (items: Item[]) => {
+            subscriber.next(items);
+        });
+        queue.on('error', error => {
+            subscriber.error(error);
+        });
+        queue.addAll(dates.map(date => (() => loadForDate(date))))
+            .then(() => subscriber.complete())
+    });
+};

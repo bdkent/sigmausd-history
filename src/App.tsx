@@ -8,7 +8,7 @@ import { LineChart, CartesianGrid, XAxis, YAxis, Tooltip, Line, ResponsiveContai
 
 import { DateRange, Item, Slug } from './types';
 import { toSlug, nowDateRange } from './utils';
-import { loadForDate } from './DataService';
+import { loadForDate, loadForDateRange } from './DataService';
 
 const App = (): JSX.Element => {
 
@@ -29,7 +29,7 @@ const App = (): JSX.Element => {
 
     const load = async () => {
       if (!data[startSlug]) {
-        addNewData(startSlug, await loadForDate(dateRange.start));
+        loadForDateRange([dateRange.start]).subscribe((items: Item[]) => addNewData(startSlug, items))
       }
       if (startSlug !== endSlug && !data[endSlug]) {
         addNewData(endSlug, await loadForDate(dateRange.end));
