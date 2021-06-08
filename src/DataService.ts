@@ -14,9 +14,8 @@ async function load(date: DateTime): Promise<Item[]> {
     return await resp.json();
 }
 
-let isReady = false;
 async function initialize() {
-    isReady = await connection.initDb({
+    await connection.initDb({
         name: 'sigmausd',
         tables: [
             {
@@ -33,6 +32,7 @@ async function initialize() {
             },
         ]
     });
+
 };
 
 initialize();
@@ -43,7 +43,7 @@ export async function loadForDate(date: DateTime): Promise<Item[]> {
     const today = todayUTC();
     const isToday = today.equals(date)
 
-    if (isReady && !isToday) {
+    if (!isToday) {
         // check db
         const nextDate = date.plus({ days: 1 }).minus({ minutes: 5 })
 
@@ -67,7 +67,7 @@ export async function loadForDate(date: DateTime): Promise<Item[]> {
 
     const items = await load(date);
 
-    if (isReady && !isToday) {
+    if (!isToday) {
 
         await connection.insert({
             into: 'Items',
@@ -82,16 +82,18 @@ export async function loadForDate(date: DateTime): Promise<Item[]> {
     return items;
 }
 
-export function loadForDateRange(dates: DateTime[]): Observable<Item[]> {
-    return new Observable<Item[]>(subscriber => {
+type DateRangeItems = [DateTime, Item[]]
+
+export function loadForDateRange(dates: DateTime[]): Observable<DateRangeItems> {
+    return new Observable<DateRangeItems>(subscriber => {
         const queue = new PQueue({ concurrency: 2 });
-        queue.on('completed', (items: Item[]) => {
+        queue.on('completed', (items: DateRangeItems) => {
             subscriber.next(items);
         });
         queue.on('error', error => {
             subscriber.error(error);
         });
-        queue.addAll(dates.map(date => (() => loadForDate(date))))
+        queue.addAll(dates.map(date => (() => loadForDate(date).then(is => ([date, is] as const)))))
             .then(() => subscriber.complete())
     });
 };

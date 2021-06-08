@@ -8,7 +8,8 @@ import { LineChart, CartesianGrid, XAxis, YAxis, Tooltip, Line, ResponsiveContai
 
 import { DateRange, Item, Slug } from './types';
 import { toSlug, nowDateRange } from './utils';
-import { loadForDate, loadForDateRange } from './DataService';
+import { loadForDateRange } from './DataService';
+import range from 'lodash/range';
 
 const App = (): JSX.Element => {
 
@@ -24,20 +25,13 @@ const App = (): JSX.Element => {
   }, [])
 
   useEffect(() => {
-    const startSlug = toSlug(dateRange.start);
-    const endSlug = toSlug(dateRange.end)
+    const nums = range(dateRange.end.diff(dateRange.start, 'days').days + 1);
 
-    const load = async () => {
-      if (!data[startSlug]) {
-        loadForDateRange([dateRange.start]).subscribe((items: Item[]) => addNewData(startSlug, items))
-      }
-      if (startSlug !== endSlug && !data[endSlug]) {
-        addNewData(endSlug, await loadForDate(dateRange.end));
-      }
-    }
+    const dts = nums.map(n => dateRange.start.plus({ days: n }));
 
-    load();
-  }, [addNewData, dateRange, data]);
+    loadForDateRange(dts).subscribe(([date, items]) => addNewData(toSlug(date), items))
+
+  }, [addNewData, dateRange]);
 
   const handleLoadPrevious = useCallback(() => {
     setDateRange(dr => {
