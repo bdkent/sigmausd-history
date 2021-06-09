@@ -2,7 +2,7 @@ import './App.scss';
 
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import 'whatwg-fetch';
-import { DateTime, Duration } from 'luxon';
+import { DateTime,  } from 'luxon';
 import sortBy from 'lodash/sortBy';
 import { LineChart, CartesianGrid, XAxis, YAxis, Tooltip, Line, ResponsiveContainer, ReferenceArea } from 'recharts'
 
@@ -10,6 +10,9 @@ import { DateRange, Item, Slug } from './types';
 import { toSlug, nowDateRange } from './utils';
 import { loadForDateRange } from './DataService';
 import range from 'lodash/range';
+import DateRangePicker from '@wojtekmaj/react-daterange-picker';
+
+const firstRecord = DateTime.utc(2021, 5, 9, 13, 38)
 
 const App = (): JSX.Element => {
 
@@ -33,18 +36,27 @@ const App = (): JSX.Element => {
 
   }, [addNewData, dateRange]);
 
-  const handleLoadPrevious = useCallback(() => {
-    setDateRange(dr => {
-      if (data[toSlug(dr.start)]) {
+  const handleRangeChange = useCallback((dateRange?: [Date, Date]) => {
+    if (!dateRange) {
+      setData({})
+      setDateRange(nowDateRange());
+    } else {
+      const [startDate, endDate] = dateRange;
+      setData({})
+      setDateRange(dr => {
+        const start = DateTime.fromJSDate(startDate)
+        const end = DateTime.fromJSDate(endDate);
+        if (start.equals(dr.start) && end.equals(dr.end)) {
+          return dr;
+        }
         return {
-          ...dr,
-          start: dr.start.minus(Duration.fromObject({ days: 1, }))
-        };
-      } else {
-        return dr;
-      }
-    })
-  }, [data])
+          start,
+          end,
+        }
+
+      })
+    }
+  }, [])
 
   type ChartData = {
     label: string;
@@ -59,8 +71,10 @@ const App = (): JSX.Element => {
       return [...all, ...(data[slug] ?? [])];
     }, []);
 
+    const divisor = Math.max(Math.ceil(allItems.length / 100), 1)
+
     return allItems.reduce((acc: ChartData[], item, index) => {
-      if (index % Math.pow(slugs.length, 2) === 0) {
+      if (index % divisor === 0) {
         return [
           ...acc,
           {
@@ -78,17 +92,22 @@ const App = (): JSX.Element => {
     }, []);
   }, [data]);
 
-
+  const pickerProps = useMemo(() => ({
+    value: [dateRange.start.toJSDate(), dateRange.end.toJSDate()],
+    maxDate: DateTime.now().toJSDate(),
+    minDate: firstRecord.toJSDate(),
+  }), [dateRange])
 
   return (
     <div className="App container">
       <a className="github-fork-ribbon" href="https://github.com/bdkent/sigmausd-history" data-ribbon="Fork me on GitHub" title="Fork me on GitHub" target="_blank" rel="noreferrer">Fork me on GitHub</a>
       <h1>SigmaUSD History</h1>
 
-      <h2>
-        {dateRange.start.toLocaleString(DateTime.DATE_FULL)}{!dateRange.start.equals(dateRange.end) && <>{' '}—{' '}{dateRange.end.toLocaleString(DateTime.DATE_FULL)}</>}
-      </h2>
-      <button className="btn btn-primary" onClick={handleLoadPrevious}>Load Previous Day</button>
+      <DateRangePicker
+        {...pickerProps}
+        onChange={handleRangeChange}
+        format="MMM d, y"
+      />
 
       <hr />
 

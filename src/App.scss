@@ -1,6 +1,10 @@
 @import "~bootstrap/scss/bootstrap"; 
 
-@import "~github-fork-ribbon-css/gh-fork-ribbon.css"
+@import "~github-fork-ribbon-css/gh-fork-ribbon.css";
+
+@import "~react-calendar/dist/Calendar.css";
+@import "~@wojtekmaj/react-daterange-picker/dist/DateRangePicker.css";
+
 
 // .reserveRatioChartWrapper canvas {
 //   position: relative; 
