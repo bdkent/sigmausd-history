@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/sigmausd-history/static/css/main.5084a3e3.chunk.css",
-    "main.js": "/sigmausd-history/static/js/main.52ee0cf9.chunk.js",
-    "main.js.map": "/sigmausd-history/static/js/main.52ee0cf9.chunk.js.map",
-    "runtime-main.js": "/sigmausd-history/static/js/runtime-main.e8855310.js",
-    "runtime-main.js.map": "/sigmausd-history/static/js/runtime-main.e8855310.js.map",
-    "static/css/2.6a3063ca.chunk.css": "/sigmausd-history/static/css/2.6a3063ca.chunk.css",
-    "static/js/2.890e8862.chunk.js": "/sigmausd-history/static/js/2.890e8862.chunk.js",
-    "static/js/2.890e8862.chunk.js.map": "/sigmausd-history/static/js/2.890e8862.chunk.js.map",
-    "static/js/3.2f9fa219.chunk.js": "/sigmausd-history/static/js/3.2f9fa219.chunk.js",
-    "static/js/3.2f9fa219.chunk.js.map": "/sigmausd-history/static/js/3.2f9fa219.chunk.js.map",
+    "main.css": "/sigmausd-history/static/css/main.581477fa.chunk.css",
+    "main.js": "/sigmausd-history/static/js/main.fddefdfe.chunk.js",
+    "main.js.map": "/sigmausd-history/static/js/main.fddefdfe.chunk.js.map",
+    "runtime-main.js": "/sigmausd-history/static/js/runtime-main.3147b0f2.js",
+    "runtime-main.js.map": "/sigmausd-history/static/js/runtime-main.3147b0f2.js.map",
+    "static/css/2.33166e63.chunk.css": "/sigmausd-history/static/css/2.33166e63.chunk.css",
+    "static/js/2.48f52279.chunk.js": "/sigmausd-history/static/js/2.48f52279.chunk.js",
+    "static/js/2.48f52279.chunk.js.map": "/sigmausd-history/static/js/2.48f52279.chunk.js.map",
+    "static/js/3.8a274927.chunk.js": "/sigmausd-history/static/js/3.8a274927.chunk.js",
+    "static/js/3.8a274927.chunk.js.map": "/sigmausd-history/static/js/3.8a274927.chunk.js.map",
     "index.html": "/sigmausd-history/index.html",
     "scripts/jsstore.worker.min.js": "/sigmausd-history/scripts/jsstore.worker.min.7bff998ae09e075a239ff1536eb7b861.js",
     "scripts/jsstore.worker.min.7bff998ae09e075a239ff1536eb7b861.js.LICENSE.txt": "/sigmausd-history/scripts/jsstore.worker.min.7bff998ae09e075a239ff1536eb7b861.js.LICENSE.txt",
-    "static/css/2.6a3063ca.chunk.css.map": "/sigmausd-history/static/css/2.6a3063ca.chunk.css.map",
-    "static/css/main.5084a3e3.chunk.css.map": "/sigmausd-history/static/css/main.5084a3e3.chunk.css.map",
-    "static/js/2.890e8862.chunk.js.LICENSE.txt": "/sigmausd-history/static/js/2.890e8862.chunk.js.LICENSE.txt"
+    "static/css/2.33166e63.chunk.css.map": "/sigmausd-history/static/css/2.33166e63.chunk.css.map",
+    "static/css/main.581477fa.chunk.css.map": "/sigmausd-history/static/css/main.581477fa.chunk.css.map",
+    "static/js/2.48f52279.chunk.js.LICENSE.txt": "/sigmausd-history/static/js/2.48f52279.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8855310.js",
-    "static/css/2.6a3063ca.chunk.css",
-    "static/js/2.890e8862.chunk.js",
-    "static/css/main.5084a3e3.chunk.css",
-    "static/js/main.52ee0cf9.chunk.js"
+    "static/js/runtime-main.3147b0f2.js",
+    "static/css/2.33166e63.chunk.css",
+    "static/js/2.48f52279.chunk.js",
+    "static/css/main.581477fa.chunk.css",
+    "static/js/main.fddefdfe.chunk.js"
   ]
 }
