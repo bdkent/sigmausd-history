@@ -9,7 +9,7 @@ Feature requests welcome (open an [issue](https://github.com/bdkent/sigmausd-his
 
 ## Notes
 - data is not realtime (updated once every 20 minutes)
-- data only goes back until May 15th, 2021
+- data only goes back until May 9th, 2021
 
 ## More Info on AgeUSD / SigmaUSD
 - https://sigmausd.io
