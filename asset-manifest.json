@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sigmausd-history/static/css/main.ae2ed064.chunk.css",
-    "main.js": "/sigmausd-history/static/js/main.7de181de.chunk.js",
-    "main.js.map": "/sigmausd-history/static/js/main.7de181de.chunk.js.map",
+    "main.js": "/sigmausd-history/static/js/main.c96ed82a.chunk.js",
+    "main.js.map": "/sigmausd-history/static/js/main.c96ed82a.chunk.js.map",
     "runtime-main.js": "/sigmausd-history/static/js/runtime-main.8b368e2a.js",
     "runtime-main.js.map": "/sigmausd-history/static/js/runtime-main.8b368e2a.js.map",
     "static/css/2.33166e63.chunk.css": "/sigmausd-history/static/css/2.33166e63.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.33166e63.chunk.css",
     "static/js/2.6d1877ae.chunk.js",
     "static/css/main.ae2ed064.chunk.css",
-    "static/js/main.7de181de.chunk.js"
+    "static/js/main.c96ed82a.chunk.js"
   ]
 }
