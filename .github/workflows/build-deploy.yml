@@ -13,7 +13,7 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     
-   env:
+    env:
       REACT_APP_TIP: ${{ secrets.TIP }}
 
     steps:
