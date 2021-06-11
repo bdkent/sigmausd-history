@@ -4,11 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import { Chart } from 'chart.js';
-import annotationPlugin from 'chartjs-plugin-annotation';
-
-Chart.register(annotationPlugin);
-
 ReactDOM.render(
   <React.StrictMode>
     <App />

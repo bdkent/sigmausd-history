@@ -2,10 +2,12 @@
 
 Some simple charts showing historical data of SigmaUSD smart contract on the ERGO platform.
 
-live charts here:
-https://bdkent.github.io/sigmausd-history/
+## live charts at https://bdkent.github.io/sigmausd-history/
 
-Feature requests welcome (open an [issue](https://github.com/bdkent/sigmausd-history/issues))!
+## Contribute
+
+ - Post in [discussions](https://github.com/bdkent/sigmausd-history/discussions) for questions or comments.
+ - Open an [issue](https://github.com/bdkent/sigmausd-history/issues) for feature requests!
 
 ## Notes
 - data is not realtime (updated once every 20 minutes)
