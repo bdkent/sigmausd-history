@@ -13,12 +13,12 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     
+   env:
+      REACT_APP_TIP: ${{ secrets.TIP }}
+
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
-
-    - env:
-        REACT_APP_TIP: ${{ secrets.TIP }}
+      uses: actions/checkout@v2        
     
     - name: Install Node.js
       uses: actions/setup-node@v1
