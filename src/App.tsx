@@ -176,7 +176,7 @@ const App = (): JSX.Element => {
 
   const tipAddress = useMemo(() => {
     const addr = document.querySelector<HTMLMetaElement>('meta[name=tip]')?.content;
-    return addr?.includes('REACT_APP_TIP') ? addr : undefined;
+    return addr?.includes('REACT_APP_TIP') ? undefined : addr;
   }, []);
 
   return (
