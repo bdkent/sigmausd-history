@@ -3,16 +3,22 @@ import { Slug } from "./types";
 import padStart from 'lodash/padStart';
 
 export function nowDateRange() {
+   const endTime =  DateTime.now().toUTC();
+   const startTime = endTime.minus({hours: 12});
 
-    const today = todayUTC();
     return {
-        start: today, end: today
+        start: toDay(startTime), 
+        end: toDay(endTime),
     };
+}
+
+function toDay(d: DateTime): DateTime {
+    return DateTime.utc(d.year, d.month, d.day);
 }
 
 export function todayUTC() {
     const now = DateTime.now().toUTC();
-    return DateTime.utc(now.year, now.month, now.day);
+    return toDay(now);
 }
 
 export function toSlug(date: DateTime): Slug {

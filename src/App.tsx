@@ -116,7 +116,7 @@ const App = (): JSX.Element => {
       return [...all, ...(data[slug] ?? [])];
     }, []);
 
-    const divisor = Math.max(Math.ceil(allItems.length / 100), 1)
+    const divisor = Math.max(Math.ceil(allItems.length / 5000), 1)
 
     const chartData = allItems.reduce((acc: Readonly<Row>[], item, index) => {
       if (index % divisor === 0) {
