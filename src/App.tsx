@@ -5,9 +5,9 @@ import 'whatwg-fetch';
 import { DateTime, } from 'luxon';
 import sortBy from 'lodash/sortBy';
 
-
+import LoadingBar from 'react-top-loading-bar'
 import { DateRange, Item, Slug } from './types';
-import { toSlug, nowDateRange } from './utils';
+import { toSlug, nowDateRange, toDay } from './utils';
 import { loadForDateRange } from './DataService';
 import range from 'lodash/range';
 import DateRangePicker from '@wojtekmaj/react-daterange-picker';
@@ -60,6 +60,7 @@ const App = (): JSX.Element => {
     setTimeRange(undefined);
   }, [dateRange])
 
+  const [progress, setProgress] = useState(0);
 
 
   const addNewData = useCallback((slug: Slug, items: Item[]) => {
@@ -69,14 +70,20 @@ const App = (): JSX.Element => {
     }));
   }, [])
 
+  const dateDiff = useMemo(() => toDay(dateRange.end).diff(toDay(dateRange.start), 'days').days + 1, [dateRange]);
+
   useEffect(() => {
-    const nums = range(dateRange.end.diff(dateRange.start, 'days').days + 1);
+    const nums = range(dateDiff);
+    setProgress(nums.length)
 
     const dts = nums.map(n => dateRange.start.plus({ days: n }));
 
-    loadForDateRange(dts).subscribe(([date, items]) => addNewData(toSlug(date), items))
+    loadForDateRange(dts).subscribe(([date, items]) => {
+      addNewData(toSlug(date), items);
+      setProgress(n => n - 1);
+    })
 
-  }, [addNewData, dateRange]);
+  }, [addNewData, dateRange, dateDiff]);
 
   const handleRangeChange = useCallback((dateRange?: [Date, Date]) => {
     if (!dateRange) {
@@ -180,7 +187,12 @@ const App = (): JSX.Element => {
   }, []);
 
   return (
-    <div className="App container min-vh-100 ">
+    <div className="App container min-vh-100">
+      <LoadingBar
+        color='#f11946'
+        progress={(dateDiff - progress) / dateDiff * 100}
+        onLoaderFinished={() => setProgress(0)}
+      />
       <a className="github-fork-ribbon" href="https://github.com/bdkent/sigmausd-history" data-ribbon="Fork me on GitHub" title="Fork me on GitHub" target="_blank" rel="noreferrer">Fork me on GitHub</a>
       <div className="d-flex flex-column min-vh-100">
         <div>
@@ -272,7 +284,7 @@ const App = (): JSX.Element => {
                   <a href="http://sigmausd.io" className="nav-link" target="_blank" rel="noreferrer">sigmausd.io</a>
                 </li>
               </ul>
-              {tipAddress && <a href={`https://explorer.ergoplatform.com/en/addresses/${tipAddress}`} target="_blank" rel="noreferrer">&hearts; tips welcome</a> }
+              {tipAddress && <a href={`https://explorer.ergoplatform.com/en/addresses/${tipAddress}`} target="_blank" rel="noreferrer">&hearts; tips welcome</a>}
             </div>
           </footer>
         </div>

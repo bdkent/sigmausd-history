@@ -12,7 +12,7 @@ export function nowDateRange() {
     };
 }
 
-function toDay(d: DateTime): DateTime {
+export function toDay(d: DateTime): DateTime {
     return DateTime.utc(d.year, d.month, d.day);
 }
 
