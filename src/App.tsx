@@ -23,6 +23,7 @@ import {
 
 } from "react-timeseries-charts";
 import { TimeRange, TimeSeries } from 'pondjs';
+import { CrossHairs } from './components/CrossHairs';
 
 const NullMarker = () => {
   return <g />;
@@ -45,6 +46,8 @@ const columnFormatter = {
   reserve: (v: string) => v,
 } as const;
 
+const showCrossHair = false;
+
 const App = (): JSX.Element => {
 
   const [data, setData] = useState<{ [slug: string]: Item[] | undefined }>({});
@@ -55,6 +58,8 @@ const App = (): JSX.Element => {
 
 
   const [timeRange, setTimeRange] = useState<TimeRange | undefined>(undefined);
+
+  const [mouse, setMouse] = useState<readonly [number, number] | undefined>();
 
   useEffect(() => {
     setTimeRange(undefined);
@@ -226,10 +231,15 @@ const App = (): JSX.Element => {
                 minTime={pickerProps.minDate}
                 timeAxisAngledLabels={true}
                 timeAxisHeight={65}
-
+                onMouseMove={(x?: number, y?: number) => setMouse(x && y ? [x, y] as const : undefined)}
                 enablePanZoom={true}
                 onTimeRangeChanged={setTimeRange}
-                onTrackerChanged={(t: Date) => setTracked(t)}
+                onTrackerChanged={(t: Date) => {
+                  setTracked(t)
+                  if (!t) {
+                    setMouse(undefined);
+                  }
+                }}
                 minDuration={1000 * 60 * 60}
               >
                 <ChartRow height={(ref.current?.offsetHeight ?? 400) * .75}>
@@ -268,6 +278,7 @@ const App = (): JSX.Element => {
                         markerLabelAlign="left"
                       /> : <NullMarker />
                     }
+                    {showCrossHair && mouse ? <CrossHairs x={mouse[0]} y={mouse[1]} /> : <g />}
                   </Charts>
                 </ChartRow>
               </ChartContainer>
@@ -284,7 +295,7 @@ const App = (): JSX.Element => {
                   <a href="http://sigmausd.io" className="nav-link" target="_blank" rel="noreferrer">sigmausd.io</a>
                 </li>
               </ul>
-              {tipAddress && <a href={`https://explorer.ergoplatform.com/en/addresses/${tipAddress}`} target="_blank" rel="noreferrer">&hearts; tips welcome</a>}
+              {tipAddress && <a href={`https://explorer.ergoplatform.com/en/addresses/${tipAddress}`} target="_blank" rel="noreferrer">&hearts; donations</a>}
             </div>
           </footer>
         </div>
