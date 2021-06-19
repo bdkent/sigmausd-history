@@ -113,14 +113,14 @@ const App = (): JSX.Element => {
           <hr />
         </div>
         <div className="flex-grow-1 " ref={ref}>
-          {timeSeriesData && (
+          {timeSeriesData && timeSeriesData.timeSeries.size() > 0 ? (
             <MainChart
               column={column}
               timeSeriesData={timeSeriesData}
               pickerProps={pickerProps}
               chartRowHeight={(ref.current?.offsetHeight ?? 400) * 0.75}
             />
-          )}
+          ): <p>No data available for given time range.</p>}
         </div>
         <div>
           <hr />
