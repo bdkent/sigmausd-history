@@ -269,13 +269,16 @@ const App = (): JSX.Element => {
                     />
                     {tracked ?
                       <EventMarker
-                        type="point"
+                        type="flag"
                         axis="y"
                         event={timeSeriesData.timeSeries.atTime(tracked)}
-                        markerLabel={columnFormatter[column](`${timeSeriesData.timeSeries.atTime(tracked).get(column)}`)}
+                        info={[{ label: columnTitles[column], value: columnFormatter[column](`${timeSeriesData.timeSeries.atTime(tracked).get(column)}`)}]}
+                        infoWidth={180}
+                        // markerLabel={columnFormatter[column](`${timeSeriesData.timeSeries.atTime(tracked).get(column)}`)}
                         column={column}
                         markerRadius={3}
-                        markerLabelAlign="left"
+                        // markerLabelAlign="left"
+                        markerStyle={{ fill: "black" }}
                       /> : <NullMarker />
                     }
                     {showCrossHair && mouse ? <CrossHairs x={mouse[0]} y={mouse[1]} /> : <g />}
