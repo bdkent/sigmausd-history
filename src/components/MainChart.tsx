@@ -33,19 +33,16 @@ export const MainChart = memo((props: MainChartProps) => {
 
   const [mouse, setMouse] = useState<readonly [number, number] | undefined>();
 
-  const [timeRange, setTimeRange] = useState<TimeRange | undefined>(undefined);
+  const defaultTimeRange = useMemo(
+    () => new TimeRange(timeSeriesData.start, timeSeriesData.end),
+    [timeSeriesData]
+  );
+
+  const [timeRange, setTimeRange] = useState<TimeRange>(defaultTimeRange);
 
   useEffect(() => {
-    setTimeRange(undefined);
-  }, [pickerProps]);
-
-  useEffect(() => {
-    if (timeSeriesData) {
-      setTimeRange(new TimeRange(timeSeriesData.start, timeSeriesData.end));
-    } else {
-      setTimeRange(undefined);
-    }
-  }, [timeSeriesData]);
+    setTimeRange(defaultTimeRange);
+  }, [pickerProps, timeSeriesData, defaultTimeRange]);
 
   const handleMouseMove = useCallback(
     (x?: number, y?: number) =>
@@ -119,6 +116,9 @@ export const MainChart = memo((props: MainChartProps) => {
               selection={selection}
               onSelectionChange={handleSelectionChange}
               interpolation="curveBasis"
+              timeScale={function (...args: unknown[]) {
+                console.log('WOW', args);
+              }}
             />
             {tracked ? (
               <EventMarker
