@@ -1,12 +1,11 @@
 /* eslint-disable */
 
 module '@wojtekmaj/react-daterange-picker' {
+  type Props = any;
 
-    type Props = any
+  type DateRangePicker = React.ComponentType<Props>;
 
-    type DateRangePicker = React.ComponentType<Props>
+  declare const DateRangePicker: DateRangePicker;
 
-    declare const DateRangePicker: DateRangePicker
-
-    export default DateRangePicker
+  export default DateRangePicker;
 }

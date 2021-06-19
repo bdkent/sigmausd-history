@@ -120,7 +120,9 @@ const App = (): JSX.Element => {
               pickerProps={pickerProps}
               chartRowHeight={(ref.current?.offsetHeight ?? 400) * 0.75}
             />
-          ): <p>No data available for given time range.</p>}
+          ) : (
+            <p>No data available for given time range.</p>
+          )}
         </div>
         <div>
           <hr />
