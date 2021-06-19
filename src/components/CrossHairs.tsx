@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { memo } from 'react';
 
 type CrossHairProps = {
     x: number;
@@ -7,7 +7,7 @@ type CrossHairProps = {
     height?: number;
 }
 
-export const CrossHairs = (props: CrossHairProps): JSX.Element => {
+export const CrossHairs = memo((props: CrossHairProps): JSX.Element => {
 
     const { x, y, width, height } = props;
     const style = { pointerEvents: "none", stroke: "#ccc" };
@@ -18,4 +18,4 @@ export const CrossHairs = (props: CrossHairProps): JSX.Element => {
             <line {...style} x1={x} y1={0} x2={x} y2={height} />
         </g>
     );
-}
+});
