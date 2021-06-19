@@ -39,7 +39,8 @@ initialize();
 
 
 
-export async function loadForDate(date: DateTime): Promise<Item[]> {
+export async function loadForDate(rawDate: DateTime): Promise<Item[]> {
+    const date = rawDate.toUTC();
     const today = todayUTC();
     const isToday = today.equals(date)
 

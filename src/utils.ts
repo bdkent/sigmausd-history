@@ -22,5 +22,6 @@ export function todayUTC() {
 }
 
 export function toSlug(date: DateTime): Slug {
-    return `${date.year}-${padStart(date.month.toString(), 2, '0')}-${padStart(date.day.toString(), 2, '0')}`
+    const d = date.toUTC()
+    return `${d.year}-${padStart(d.month.toString(), 2, '0')}-${padStart(d.day.toString(), 2, '0')}`
 }
