@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 module '@wojtekmaj/react-daterange-picker' {
 
     type Props = any

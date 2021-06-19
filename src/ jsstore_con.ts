@@ -1,7 +1,7 @@
-const JsStore = require('jsstore');
-
 /* eslint-disable */
 
+
+const JsStore = require('jsstore');
 
 const getWorkerPath = () => {
 

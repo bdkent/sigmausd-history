@@ -1,5 +1,4 @@
-
-export const columns = ['reserveRatio', 'stable', 'reserve'] as const
+export const columns = ['reserveRatio', 'stable', 'reserve'] as const;
 
 export type ColumnTypes = typeof columns[number];
 

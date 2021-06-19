@@ -43,16 +43,31 @@
     "build": "REACT_APP_COMMIT=`git rev-parse HEAD` react-app-rewired build",
     "test": "react-app-rewired test --passWithNoTests",
     "eject": "react-scripts eject",
-    "compile": "npx tsc",
+    "compile": "npx tsc --noEmit",
     "eslint": "npx eslint --ext .ts,.tsx src/**/*.{ts,tsx}",
     "eslint-fix": "npx eslint --fix --ext .ts,.tsx src/**/*.{ts,tsx}",
-    "lint": "npm run eslint-fix"
+    "lint": "npm run eslint-fix",
+    "format": "prettier --write src/**/*.ts{,x}"
   },
   "eslintConfig": {
     "extends": [
+      "eslint:recommended",
+      "plugin:react-hooks/recommended",
       "react-app",
-      "react-app/jest"
-    ]
+      "react-app/jest",
+      "plugin:@typescript-eslint/eslint-recommended",
+      "plugin:@typescript-eslint/recommended",
+      "plugin:prettier/recommended"
+    ],
+    "rules": {
+      "quotes": [
+        "error",
+        "single",
+        {
+          "avoidEscape": true
+        }
+      ]
+    }
   },
   "browserslist": {
     "production": [
@@ -67,12 +82,20 @@
     ]
   },
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
     "@types/node": "12.0.0",
     "@types/rx": "^4.1.2",
     "@types/whatwg-fetch": "0.0.33",
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
+    "@typescript-eslint/parser": "^4.27.0",
     "css-loader": "5.2.6",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "file-loader": "^6.2.0",
     "node-sass": "6.0.0",
+    "prettier": "^2.3.1",
+    "prettier-eslint": "^12.0.0",
     "react-app-rewired": "2.1.8",
     "sass-loader": "11.1.1"
   }
