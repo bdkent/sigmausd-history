@@ -1,3 +1,10 @@
+# DEPRECATED!!!
+
+see the far superior: https://ergo.watch/sigmausd
+
+
+-----------
+
 # SigmaUSD History
 
 Some simple charts showing historical data of SigmaUSD smart contract on the ERGO platform.
